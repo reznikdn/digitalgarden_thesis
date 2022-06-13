@@ -11,7 +11,7 @@
 	- 0, understood as horizonal, rather than objective [[world (Husserl)|world]], emphasizes the bound between every [[appearance_Husserl|appearance]] and its [[horizon|horizon]]. 
 
 
-## Topics
+## Thesaurus
 - [[ontology of the life-world|ontology of the life-world]]
 - [[life-world & science|life-world & science]]
 - [[life-world a priori|life-world a priori]]
