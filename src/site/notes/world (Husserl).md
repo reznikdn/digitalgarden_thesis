@@ -9,6 +9,27 @@
 - 0 is a multidimensional sense-formation (multidimensionales Sinngebilde) ([[@sowa2008|Sowa 2008]], LXI; [[@lee2019|Lee 2019]], 49-50).
 
 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+приём ^pq3Z5dhK
+
+
+
+</div></div>
+
+
+
 ## The map of the world’s dimensions
 
 
