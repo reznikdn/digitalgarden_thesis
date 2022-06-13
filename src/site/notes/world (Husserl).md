@@ -8,26 +8,13 @@
 	- See also [[relation between world-concepts (Husserl)|relation between world-concepts (Husserl)]].
 - 0 is a multidimensional sense-formation (multidimensionales Sinngebilde) ([[@sowa2008|Sowa 2008]], LXI; [[@lee2019|Lee 2019]], 49-50).
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
-
-
-# Text Elements
-приём ^pq3Z5dhK
-
-
-
-</div></div>
-
+<style>
+.container {font-family: sans-serif; text-align: center;}
+.button-wrapper button {z-index: 1;height: 40px; width: 100px; margin: 10px;padding: 5px;}
+.excalidraw .App-menu_top .buttonList { display: flex;}
+.excalidraw-wrapper { height: 800px; margin: 50px; position: relative;}
+:root[dir="ltr"] .excalidraw .layer-ui__wrapper .zen-mode-transition.App-menu_bottom--transition-left {transform: none;}
+</style><script src="https://unpkg.com/react@17/umd/react.production.min.js"></script><script src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"></script><script type="text/javascript" src="https://unpkg.com/@excalidraw/excalidraw/dist/excalidraw.production.min.js"></script><div id="draw_2206131658excalidraw.md1"></div><script>(function(){const InitialData={"type":"excalidraw","version":2,"source":"https://excalidraw.com","elements":[{"id":"zS9sQsyP","type":"text","x":-144.2074277997017,"y":-411.59847259521484,"width":87,"height":25,"angle":0,"strokeColor":"#000000","backgroundColor":"transparent","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"strokeSharpness":"sharp","seed":1003023685,"version":12,"versionNonce":1827757739,"isDeleted":false,"boundElements":null,"updated":1655128732513,"link":null,"locked":false,"text":"проверка","rawText":"проверка","fontSize":20,"fontFamily":1,"textAlign":"left","verticalAlign":"top","baseline":17,"containerId":null,"originalText":"проверка"}],"appState":{"theme":"light","viewBackgroundColor":"#ffffff","currentItemStrokeColor":"#000000","currentItemBackgroundColor":"transparent","currentItemFillStyle":"hachure","currentItemStrokeWidth":1,"currentItemStrokeStyle":"solid","currentItemRoughness":1,"currentItemOpacity":100,"currentItemFontFamily":1,"currentItemFontSize":20,"currentItemTextAlign":"left","currentItemStrokeSharpness":"sharp","currentItemStartArrowhead":null,"currentItemEndArrowhead":"arrow","currentItemLinearStrokeSharpness":"round","gridSize":null,"colorPalette":{}},"files":{}};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(Excalidraw.default,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("draw_2206131658excalidraw.md1");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();</script>
 
 
 ## The map of the world’s dimensions
