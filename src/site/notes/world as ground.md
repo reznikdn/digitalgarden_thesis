@@ -5,7 +5,7 @@
 # world as ground
 - 0
 	- 0 bespeaks the general style in which consciousness discloses the world and things as [[intuition_Husserl|intuitive]] ([[@geniusas2012|@geniusas2012]], 185).
-	- 0 is a ground of each and every [[modalization|modalization]] ([[@geniusas2012|@geniusas2012]], 185). 0 could not be [[givenness (Husserl)|given]] as doubtful, probable or possible; it van only be [[self-evident|self-evident]].
+	- 0 is a ground of each and every [[modalization|modalization]] ([[@geniusas2012|@geniusas2012]], 185). 0 could not be [[givenness (Husserl)|given]] as doubtful, probable or possible; it van only be [[self-evidece|self-evident]].
 - how the givenness of the world as ground is possible
 	- The world as the wherefrom of experience “is given as an inseparable dimension of sense that pertains to the constitutive history of the formation of each and every objectivity” ([[@geniusas2012|@geniusas2012]], 191). It is given as the ultomate origin from which everything intuitive, thematic and objective springs.
 - world as ground from static and genetic perspective
