@@ -18,16 +18,15 @@
 - Путь через интенциональную психологию начинается с абтракции психического от мира и редукции, применяемой к этой абрагированной псхиической области. 
 - Чтобы психология была универсальной наукой, эта редукция должна быть универсальной. И эта универсальность не может быть достигнута через бесконечную серию индивидуальных редукций, применяемых к индивидуальным психическим актам; ибо такие индивидуальные редукции предполагают значимость горизонтов акта.
 - Универсальная редукция должна быть исполнена в универсальной воле, которая заменяет все индивидуальные редукции.
-- Психолог отказывается от интереса в существовании предмета всякого психического акта. Психиолог же, однако, всё ещё предполагает значимость мира, в котором он работает и в котором редуцированные эмпирические акты происходят. Поэтому затем редуцируется и мир, который предполагается существующим и в котором существует этот исследуемый психологом акт. 
+- Психолог отказывается от интереса в существовании предмета всякого психического акта. Психиолог же, однако, всё ещё предполагает значимость мира, в котором он работ ает и в котором редуцированные эмпирические акты происходят. Поэтому затем редуцируется и мир, который предполагается существующим и в котором существует этот исследуемый психологом акт. 
 - В итоге исследование более не напрвлено на феномен в мире, но на универсальную жизнь сознания и его коррелят, переживаемый мир.
 
 
 ## Literature
-- [[@moran2012|Moran Dermot. 2012. Husserl's crisis of the European sciences and transcendental phenomenology. An introduction.]]
-- [[@drummond1975|Drummond John. 1975. Husserl on the Ways to the Performance of the Reduction.]]
-- [[@geniusas2012|Geniusas Saulius. 2012. The Origins of the Horizon in Husserl’s Phenomenology.]]
-
-
-
-
-
+- [[@drummond1975|Drummond J. 1975. Husserl on the Ways to the Performance of the Reduction // Man and World 8(1).]]
+- [[@geniusas2012|Geniusas S. 2012. The Origins of the Horizon in Husserl’s Phenomenology. Dordrecht: Springer.]]
+- [[@husserl1959|Husserl E. (Hua VIII). 1959. Erste Philosophie II (1923-24): Theorie der phänomenologischen Reduktion. Den Haag: Martinus Nijhoff.]]
+- [[@lee1993|Lee N.-I. 1993. Edmund Husserls Phänomenologie der Instinkte. Springer.]]
+- [[@moran2012|Moran D. 2012. Husserl's crisis of the European sciences and transcendental phenomenology: An introduction.]]
+- [[@staiti2014|Staiti A. 2014. Husserl's Transcendental Phenomenology: Nature, Spirit, and Life.]]
+- [[@theodorou2015|Theodorou P. 2015. Husserl and Heidegger on Reduction, Primordiality, and the Categorial. Phenomenology Beyond its Original Divide.]]
