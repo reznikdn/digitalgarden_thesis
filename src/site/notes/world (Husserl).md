@@ -26,42 +26,9 @@
 	- See also [[world as such & concrete world & general world|world as such & concrete world & general world]].
 - There are [[home-world|home-worlds]] & [[alien-world|alien-worlds]].
 
-## Aspects of the world
-- [[pregivenness of the world|pregivenness of the world]]
 
-## Dictionary
-- [[concrete world|concrete world]]
-- [[cultural world|cultural world]]
-- [[experienced world|experienced world]] (Erfahrungswelt)
-- [[general world|general world]]
-- [[historical world|historical world]]
-- [[home-world|home-world]] (Heimwelt)
-- [[life-world (Husserl)|life-world]] (Lebenswelt)
-- [[natural concept of the world|natural concept of the world]] (natürliche Weltbegriff)
-- [[particular world|particular world]] (Sonderwelt)
-- [[perceptual world|perceptual world]]
-- [[phantom-world|phantom-world]]
-- [[political world|political world]]
-- [[pre-world|pre-world]] (Vorwelt)
-- [[primal world|primal world]] (Urwelt)
-- [[scientific world|scientific world]]
-- [[social world|social world]]
-- [[surrounding world|surrounding world]] (Umwelt)
-- [[the world & a world|the world & a world]]
-- [[transcendental concept of the world|transcendental concept of the world]]
-- [[world-apprehension|world-apprehension]]
-- [[world as ground|world as ground]] (Welt als Boden)
-- [[modalizable world|world as modalizable]]
-- [[nature (Husserl)|world as nature]]
-- [[world as primal fact|world as primal fact]]
-- [[the one world|world as such]]
-- [[world as totality|world as totality]] (Welt als Totalität)
-- [[universal horizon|world as universal horizon]] (Welt als universale Horizont)
-- [[worldbound|worldbound]]
-- [[world-consciousness|world-consciousness]]
-- [[world-experience|world-experience]]
-- [[world-horizon|world-horizon]] (Welthorizont)
-- [[worldliness|worldliness]]
+## Pregivenness of the world
+The theme is in the progress. See the content [[pregivenness of the world|here]].
 
 
 ## Views on the world
@@ -84,6 +51,57 @@
 		2. [[experienced world|experienced world]]
 			1. world as wherein of experience ([[universal horizon|world as universal horizon]])
 			2. world as whereto of experience ([[life-world (Husserl)|world as life-world]])
+
+
+## Thesaurus
+- Parents
+	- [[Husserl|Husserl]]
+	- [[world|world]]
+	- [[phenomenology|phenomenology]]
+- Concepts of the world
+	- [[experienced world|experienced world]] (Erfahrungswelt)
+	- [[home-world|home-world]] (Heimwelt)
+	- [[life-world (Husserl)|life-world]] (Lebenswelt)
+	- [[natural concept of the world|natural concept of the world]] (natürliche Weltbegriff)
+	- [[particular world|particular world]] (Sonderwelt)
+	- [[pre-world|pre-world]] (Vorwelt)
+	- [[primal world|primal world]] (Urwelt)
+	- [[transcendental concept of the world|transcendental concept of the world]]
+	- [[world as ground|world as ground]] (Welt als Boden)
+	- [[modalizable world|world as modalizable]]
+	- [[world as primal fact|world as primal fact]]
+	- [[world as totality|world as totality]] (Welt als Totalität)
+	- [[universal horizon|world as universal horizon]] (Welt als universale Horizont)
+	- [[world-horizon|world-horizon]] (Welthorizont)
+- World as a whole
+	- [[concrete world|concrete world]]
+	- [[general world|general world]]
+	- [[the one world|the one world]]
+	- [[the one world|world as such]]
+- Layers of the world
+	- [[cultural world|cultural world]]
+	- [[historical world|historical world]]
+	- [[perceptual world|perceptual world]]
+	- [[phantom-world|phantom-world]]
+	- [[political world|political world]]
+	- [[scientific world|scientific world]]
+	- [[social world|social world]]
+	- [[surrounding world|surrounding world]] (Umwelt)
+	- [[nature (Husserl)|world as nature]]
+- World-correlates
+	- [[world-apprehension|world-apprehension]]
+	- [[world-consciousness|world-consciousness]]
+	- [[world-experience|world-experience]]
+- Topics
+	- [[annihilation of the world|annihilation of the world]]
+	- [[the world & a world|the world & a world]]
+	- [[worldbound|worldbound]]
+	- [[worldliness|worldliness]]
+
+## See also
+- [[horizon (Husserl)|horizon (Husserl)]]
+- [[modification of the world|modification of the world]]
+- [[universal customs|universal customs]]
 
 
 ## Literature
@@ -143,10 +161,3 @@
 - Todres L. 2005. Clarifying the life-world: Descriptive phenomenology // Qualitative research in health care. ==добавить==
 - [[@welton2000|Welton D. 2000. The other Husserl. The horizons of transcendental phenomenology. Indiana University Press.]]
 - Welz F. 2013. Kritik der Lebenswelt: Eine soziologische Auseinandersetzung mit Edmund Husserl und Alfred Schütz. ==добавить==
-
-## See also
-- [[attitude & world-horizon|attitude & world-horizon]]
-- [[horizon (Husserl)|horizon (Husserl)]]
-- [[modification of the world|modification of the world]]
-- [[phenomenology|phenomenology]]
-- [[universal customs|universal customs]]
