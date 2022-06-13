@@ -13,7 +13,7 @@
 - 0 is interminable “and so on” of the innumerable [[horizon|horizons]] ([[@held2012|Held 2012]], 448).
 
 ## Thematization of the universal horizon
-- 0 is quite different from the [[thematization of horizon|thematization of the particular horizon]] ([[@held2012|Held 2012]], 448).
+- 0 is quite different from the [[horizon (Husserl)|thematization of the particular horizon]] ([[@held2012|Held 2012]], 448).
 - 0 is problematic
 	- If the [[world-horizon|world-horizon]] is [[object (Husserl)|non-objective]], [[theme (Husserl)|non-thematic]], [[intuition_Husserl|non-intuitive]], then how is one to transform its alleged givenness into a [[phenomenology|phenomenologically]] accessible theme ([[@geniusas2012|Geniusas 2012]], 181)? [[Geniusas|Geniusas]] claims that “despite its threefold negative qualification, the world remains not only a legitimate, but also one of the central themes of [[Husserl|Husserlian]] phenomenology” ([[@geniusas2012|Geniusas 2012]], 182).
 	- Живя в определённой [[attitude (Husserl)|установке]] и, следовательно, рассматривая (/viewing) определённые вещи внутри этого горизонта (горизонта, который суть коррелят установки), я вижу именно вещи, но не сам горизонт, в котором они явлены; cам горизонт остаётся нетематизированным, поскольку предмет, которым я обладаю тематические, есть то, на что я настраиваю собственное внимание ([[@luft2021_1|Luft 2021]]).
@@ -42,7 +42,7 @@
 
 ## See also
 - [[horizon (Husserl)|horizon (Husserl)]]
-- [[world as horizon & world as universal horizon|world as horizon & world as universal horizon]]
+- [[world-horizon & universal horizon|world-horizon & universal horizon]]
 - [[world-experience|world-experience]]
 - [[world-horizon|world-horizon]]
 - [[world (Husserl)|world (Husserl)]]
