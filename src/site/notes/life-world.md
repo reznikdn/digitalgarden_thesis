@@ -3,11 +3,12 @@
 ---
 
 # life-world
-- 0 по авторам
+## Thesaurus
+- Authors
 	- [[life-world (Husserl)|life-world (Husserl)]]
 	- [[life-world_Schutz|life-world (Schutz)]]
 	- [[life-world_Patocka|life-world (Patočka)]]
-- 0 по темам
+- Topics
 	- [[ontological reduction|ontological reduction]]
 	- [[life-world & science|life-world & science]]
 	- [[relation between world-concepts (Husserl)|relation between world-concepts (Husserl)]]
