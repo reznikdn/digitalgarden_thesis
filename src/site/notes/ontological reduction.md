@@ -8,5 +8,12 @@
 	- To execute the 0 it is necessary to conduct “an [[epoché|epoché]] of all participation in the cognitions of the objective sciences, an epoché of any critical position-taking which is interested in their truth or falsity, even any position on their guiding idea of an objective knowledge of the [[world (Husserl)|world]]… an epoché in regard to all objective theoretical [[interest_Husserl|interests]], all aims and activities belonging to us as objective scientists” ([[@husserl1970|@husserl1970]], 123; cit. by [[@mensch2017|@mensch2017]], 17). We need to place ourselves upon the ground of the straightforwardly [[intuition_Husserl|intuited]] world.
 	- 0 is formed under a [[Kant|Kantian]] influence, and begins with the structures of the world and attempts to reveal the [[constitution (Husserl)|constitutive]] operations of [[consciousness|consciousness]] as the condition for the sense of such structures, similar to the way Kant point to certain domains of knowledge and argues that the contribution of consciousness are necessary preconditions for such knowledge ([[@bower2020|@bower2020]], 188).
 
+
+## Literature
+- [[@husserl1970|Husserl E. 1970. The crisis of European sciences and transcendental phenomenology: An introduction to phenomenological philosophy. Evanston: Northwestern University Press.]]
+- [[@mensch2017|Mensch J. 2017. Life and the Reduction to the Life-World // Horizon. Феноменологические исследования 6(3).]]
+- [[@bower2020|Bower M.E.M. 2020. Finding a Way Into Genetic Phenomenology // The Subject(s) of Phenomenology. Springer.]]
+
+
 ## See also
 - [[system of sciences & ontology of the life-world|system of sciences & ontology of the life-world]]
