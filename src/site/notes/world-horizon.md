@@ -3,6 +3,7 @@
 ---
 
 # world-horizon
+- 0 is a [[transcendental concept of the world|transcendental concept of the world]] in [[Husserl|Husserl’s]] [[phenomenology|phenomenology]].
 - 0 is the opposite to understanding of the [[world as totality|world as totality]].
 - 0 is the name for a complex form of [[intentionality (Husserl)|intentionality]] that does not so much give us an awareness of everything all at once as it does provide us a schematic awareness of that which lies beyond what we experience at any given moment ([[@bower2013|Bower 2013]], 11).
 - The world is not a horizon of things, but a horizon of possible experience, “an infinite horizon of possible experience” ([[@husserl1959|Hua VIII]], 148; [[@overgaard2004|Overgaard 2004]], 116).
@@ -20,24 +21,10 @@
 	- Жизненный мир - это то, что структурирует наше поле опыта, предлагая всестороннее предварительное представление об окружающем мире. Именно из-за его деятельности вещи обладают "ценностью по умолчанию", то есть проектируются с определённой идеей привычности и рутины.
 	- Концепт жизненного мира обладает двумя ключевыми характеристиками в конституировании общностей людей: 1. Он функционирует как горизонт общественной деятельности. "Transcendental intersubjecivity entails a necessary relation to transcendence, to a common world". 2. Общность привязана к материальным, конкретным условиям гео-социального окружения. Общность - не просто вопрос общих норм, идей и прочего; она должна пониматься в отношении к определённой территориальности. (cмотреть также: [[общность в феноменологии|общность в феноменологии]]).
 
-## Topics
-- [[thematization of universal horizon|thematization of universal horizon]]
+
 
 ## Доделать
-- предданность мирового горизонта
-	- Несмотря на то, что понятие [[pregivenness|предданости]] в Идеях 1 не используется, оно крайне хорошо изображает способ, которым мир является в естественной установке.
-	- [[@geniusas2012|Генюшас (2012)]] выделяет несколько несколько определений [[pregivenness|предданности]] мирового горизонта у [[Husserl|Гуссерля]]:
-	1. Welthorizont является предданным как источник (или исход - origin), внутри которого произростает всякая предметность
-	2. он преддан как бесконечная пространственно-временная протяжённость, внутри которой всякий предмет находит своё место
-	3. он включает как неживые, так и живые предметы
-	4. его предданность означает также, что и я нахожусь внутри него
-	5. он преддан как бесконечное поле возможностей сознания
-	6. он преддан как практический горизонт, внутри которого неживые и живые предметы обладают ценностными характеристиками
-	- Сказать, что мир преддан естественному сознанию - это сказать, что данность всякой предметности предполагает предшествующую ей данность мира
-	- Предданность мирового горизонта уникальна тем, что он есть единственный горизонт, созданный не нами. Есть и другие горизонты, которые сознание может населить, однако мировой горизонт дан как всегда уже данный. Новый горизонт - это модифицирование всегда уже данного мирового горизонта. И мировой горизонт всегда на фоне.
-	- То, что мировой горизонт преддан, не означает просто, что он есть почва, на которой и контекст, в котором являются предметы. Его предданность также маркирует предметы как мирские. Мир специфицирует измерение смысла, которое неотделимо от всех естественных предметов, данных в естественной установке.
-	- Но что означает это марка мира? Естественное сознание принимает предданность мира как его предшествование ппо отношению к исполнениям сознания. Естественное сознание, кроме того, предполагает, что это предшествование означает первичность существования мира.
-	- Тезис "мир всегда уже здесь" проблематичен, потому что, поскольку он наделяет мир характером существующей действительности, сам-то этот тезис не артикулируется ни в каком конкретном акте или суждении сознания. Подлинный смысл мира скрыт от естественной установки.
+
 
 - static concept of the world-horizon
 	- 0 = core concept of the world-horizon, thin concept of the world-horizon ([[@bower2013|@bower2013]], 16-17).
@@ -53,8 +40,24 @@
 - world-horizon as totality of entities
 	- If we understand by world-horizon the totality of entities, this would seem to suggest that the entities are what make the world possible, or at most that world, and individual entities are interdependent ([[@husserl1954|Hua VI]], 146; [[@husserl1968|Hua IX]],  96; see also [[@overgaard2004|@overgaard2004]], 115). But the investigation of perceptual [[intentionality (Husserl)|intentionality]] shows the [[horizon (Husserl)|horizon]] is the condition of possibility of [[entity (Husserl)|entities]], and not vice versa. 
 
+## Thesaurus
+- &
+	- [[world-horizon & universal horizon|world-horizon & universal horizon]]
+	- [[world-horizon & attitude|world-horizon & attitude]]
+	- [[world-horizon & objects|world-horizon & objects]]
+- Topics
+	- [[genesis of the world-horizon|genesis of the world-horizon]]
+	- [[как происходит выключение мирового горизонта в Идеях 1|как происходит выключение мирового горизонта в Идеях 1]]
 
-## Литература
+
+## See also
+- [[universal horizon|universal horizon]]
+- [[annihilation of the world|annihilation of the world]]
+- [[paradox of act and horizon|paradox of act and horizon]]
+- [[relation between world-concepts (Husserl)|relation between world-concepts (Husserl)]]
+
+
+## Literature
 - [[@bower2013|Bower M.E.M. 2013. The Birth of the World: An Exploration in Husserl's Genetic Phenomenology. The University of Memphis.]]
 - [[@fink1990|Fink E. 1990. Welt und Endlichkeit. Würzburg: Königshausen und Neumann. ]]
 - [[@geniusas2012|Geniusas S. 2012. The Origins of the Horizon in Husserl’s Phenomenology. Dordrecht: Springer.]]
@@ -74,17 +77,3 @@
 - [[@yamaguchi1982|Yamaguchi Ichiro. 1982. Passive Synthesis und Intersubjektivität bei Edmund Husserl.]]
 
 
-## See also
-- [[world as horizon & world as universal horizon|world as horizon & world as universal horizon]]
-- [[universal horizon|world as universal horizon]]
-- [[world-horizon & attitude|world-horizon & attitude]]
-- [[world-horizon & objects|world-horizon & objects]]
-- [[genesis of the world-horizon|genesis of the world-horizon]]
-- [[attitude & world-horizon|attitude & world-horizon]]
-- [[annihilation of the world|annihilation of the world]]
-- [[naturalistic attitude|naturalistic attitude]]
-- [[paradox of act and horizon|paradox of act and horizon]]
-- [[pre-world|pre-world]]
-- [[relation between world-concepts (Husserl)|relation between world-concepts (Husserl)]]
-- [[transcendental concept of the world|transcendental concept of the world]]
-- [[как происходит выключение мирового горизонта в Идеях 1|как происходит выключение мирового горизонта в Идеях 1]]
