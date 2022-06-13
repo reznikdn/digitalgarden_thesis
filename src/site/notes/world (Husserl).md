@@ -77,16 +77,13 @@
 - 0 in [[@mohanty1974|Mohanty 1974]]
 	- World in narrow sense is the world taken in pre-scientific, pre-logical, [[pre-predicativity|pre-predicative]] experience.
 	- World in a broad sense is the world as a condition of possibility of any world in general, i.e. [[world-horizon|world-horizon]] within which all other worlds are [[constitution (Husserl)|constituted]] and given.
-- 0 in [[@geniusas2012|Geniusas 2012]] (see also [[Attachments/draw_2206131703.excalidraw|this map]])
+- 0 in [[@geniusas2012|Geniusas 2012]] (see also [[Attachments/draw_2206131703.excalidraw|this map on Geniusas]])
 	1. [[world as totality|world as totality]] / natural concept of the world
 	2. [[world-horizon|world-horizon]] / transcendental concept of the world
 		1. world as wherefrom of experience ([[world as ground|world as ground]])
 		2. [[experienced world|experienced world]]
 			1. world as wherein of experience ([[universal horizon|world as universal horizon]])
 			2. world as whereto of experience ([[life-world (Husserl)|world as life-world]])
-
-
-
 
 
 ## Literature
