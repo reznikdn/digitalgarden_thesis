@@ -15,5 +15,6 @@ body {
     }
     a.is-unresolved{
         color: black;
+        pointer-events: none;
     }
 }
