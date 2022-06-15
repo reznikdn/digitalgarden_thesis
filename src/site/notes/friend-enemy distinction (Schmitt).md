@@ -24,3 +24,4 @@
 ## See also
 - [[enemy (Schmitt)|enemy (Schmitt)]]
 - [[internal enemy (Schmitt)|internal enemy (Schmitt)]]
+- [[war (Schmitt)|war (Schmitt)]]
