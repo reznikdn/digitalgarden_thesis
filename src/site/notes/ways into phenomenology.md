@@ -9,6 +9,21 @@
 - There are three 0: [[Cartesian reduction|Cartesian]] & [[ontological reduction|ontological]] & [[psychological reduction|psychological]] ([[@kern1977|Kern 1977]]).
 
 
+## Thesaurus
+- Parents
+	- [[Husserl|Husserl]]
+	- [[phenomenology|phenomenology]]
+- Siblings
+	- [[phenomenological perspectives|phenomenological perspectives]]
+	- [[reduction (Husserl)|reduction (Husserl)]]
+- Kinds
+	- [[Cartesian reduction|Cartesian reduction]]
+	- [[ontological reduction|ontological reduction]]
+	- [[psychological reduction|psychological reduction]]
+- &
+	- [[historical reflection & ways into phenomenology|0 & historical reflection]]
+
+
 ## Literature
 - [[@bower2020|Bower M.E.M. 2020. Finding a Way Into Genetic Phenomenology // The Subject(s) of Phenomenology. Springer.]]
 - Cerisano D. 2015. Husserl and intersubjectivity: The Bridge Between the Cartesian and Ontological Way.
@@ -18,5 +33,3 @@
 - [[@luft2004|Luft S. 2004. Husserl's theory of the phenomenological reduction: Between life-world and cartesianism // Research in Phenomenology 34(1).]]
 
 
-## See also
-- [[historical reflection & ways into phenomenology|historical reflection & ways into phenomenology]]
