@@ -4,7 +4,7 @@
 
 # political
 
-## Dictionary
+## Thesaurus
 - Authors
 	- [[political (Schmitt)|political (Schmitt)]]
 	- [[political (Husserl)|political (Husserl)]] 
