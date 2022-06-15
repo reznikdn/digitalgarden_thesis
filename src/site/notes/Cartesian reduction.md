@@ -47,5 +47,5 @@
 
 ## See also
 - [[static phenomenology|static phenomenology]]
-- [[static & genetic phenomenology|static & genetic phenomenology]]
+- [[static phenomenology & genetic phenomenology|static phenomenology & genetic phenomenology]]
 - [[system of sciences & ontology of the life-world|system of sciences & ontology of the life-world]]
