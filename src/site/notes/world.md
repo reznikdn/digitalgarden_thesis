@@ -15,4 +15,5 @@
 	- [[political world|political world]]
 	- [[social world|social world]]
 	- [[the one world|the one world]]
-
+- Synonyms and Translation
+	- world – Welt – мир
