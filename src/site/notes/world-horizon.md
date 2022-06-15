@@ -27,9 +27,9 @@
 
 
 - static concept of the world-horizon
-	- 0 = core concept of the world-horizon, thin concept of the world-horizon ([[@bower2013|@bower2013]], 16-17).
-	- 0 is concerned with an [[eidos (Husserl)|eidos]] of the world-horizon.
-	- The [[static phenomenology|statically]] derived concept of the world captures, [[Bower|Bower]] claims, something similar to what was of interest to [[Kant|Kant]] in his [[transcendental aesthetic (Kant)|transcendental aesthetic]], namely, the spatiotemporal form of perceptual experience ([[@bower2013|@bower2013]], 16).
+	- 0 = core concept of the world-horizon, thin concept of the world-horizon ([[@bower2013|Bower 2013]], 16-17).
+	- 0 is concerned with an [[eidos (Husserl)|eidos]] of the world-horizon ([[@bower2013|Bower 2013]], 16-17).
+	- The [[static phenomenology|statically]] derived concept of the world captures, [[Bower|Bower]] claims, something similar to what was of interest to [[Kant|Kant]] in his [[transcendental aesthetic (Kant)|transcendental aesthetic]], namely, the spatiotemporal form of perceptual experience ([[@bower2013|Bower 2013]], 16).
 	- [[eidetic reduction|Eidetic variation]] of world-horizon is not equal to eidetic variation of an [[object (Husserl)|intentional object]] because the last can be given as identifiable, as something completely identical in its own right, whereas the world-horizon is [[pregivenness|pregiven]] ([[@bower2013|@bower2013]], 22). World-horizon does not have an immediate core of experience as the thing does; it has only an indirect tie to this core ([[@bower2013|@bower2013]], 23).
 	- 0 implies that world-horizon gives my present experience the sense of direct contact with only a “segment” of the world ([[@husserl2012b|Hua XLI]], 362; cit. by [[@bower2013|@bower2013]], 24)
 - construction of the world-horizon
