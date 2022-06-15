@@ -27,7 +27,7 @@
 ## See also
 - [[absolute flow|absolute flow]]
 - [[environment (Husserl)|environment (Husserl)]]
-- [[genesis|genesis]]
+- [[genesis (Husserl)|genesis (Husserl)]]
 - [[ideation|ideation]]
 - [[passivity & activity (Husserl)|passivity & activity (Husserl)]]
 - [[secondary sensibility|secondary sensibility]]
