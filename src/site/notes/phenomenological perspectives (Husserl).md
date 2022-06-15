@@ -3,7 +3,7 @@
 ---
 
 # phenomenological perspectives (Husserl)
-#question ==Как бы лучше было бы обозначить эти классификации? ==
+==#question Как бы лучше было бы обозначить эти классификации? ==
 
 -  1
 	- [[static phenomenology|static phenomenology]]
