@@ -3,7 +3,7 @@
 ---
 
 # community (Husserl)
-- 0 is a unique subjectivity that can be understood on its own, with regard to a personal history ([[genesis|genesis]]) and [[teleology (Husserl)|teleological structure]] ([[@miettinen2014|Miettinen 2014]], 149).
+- 0 is a unique subjectivity that can be understood on its own, with regard to a personal history ([[genesis (Husserl)|genesis (Husserl)]]) and [[teleology (Husserl)|teleological structure]] ([[@miettinen2014|Miettinen 2014]], 149).
 - 0 “have their own lives, preserve themselves by lasting through time despite the joining or leaving of individuals” ([[@husserl1952|Hua IV]], 182).
 - Manifestation 0 is what we encounter in our everyday life.
 	- In our daily lives, “we encounter a whole set of things, expressions, and accomplishments that cannot be attributed to any particular subject. A piece by symphonic orchestra, a novel theory created by a scientific researcher group, or even a ‘collective’ declaration of independence are all examples of interpersonal accomplishments that cannot really be attributed to any particular agent. They are created and shared together based on a common resolution or a common goal” ([[@miettinen2014|Miettinen 2014]], 150).
