@@ -8,11 +8,13 @@
 - Husserl also use 0 when he wants to emphasize a cultural and historical phenomenon ([[@steinbock1995|Steinbock 1995]], 58).
 
 
+## See also
+- [[the other & the alien|the other & the alien]]
+- [[the other|the other]]
+
+
 ## Literature
 - [[@steinbock1995|Steinbock A. 1995. Home and Beyond: Generative Phenomenology after Husserl. Northwestern University Press.]]
 
 
 
-## See also
-- [[the other & the alien|the other & the alien]]
-- [[the other|the other]]
