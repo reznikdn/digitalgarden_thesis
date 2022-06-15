@@ -12,7 +12,4 @@
 
 
 ## Literature
-- 
-
-
-## See also
+- [[@steinbock1995|Steinbock A. 1995. Home and Beyond: Generative Phenomenology after Husserl. Northwestern University Press.]]
