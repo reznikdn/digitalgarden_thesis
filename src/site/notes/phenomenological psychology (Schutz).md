@@ -10,6 +10,15 @@
 	- Шюц говорит следующее про это различение (см. [[@embree2008|Эмбри 2008]], 9). Социальная психология полагается на методологический индивидуализм, чтобы сфокусироваться на том, как другие конституированы благодаря и для индивидуальных Я и, таким образом, предоставляет основание для исследования коллективной жизни и групп в различных исторических и социально-научных способах.
 
 
+## Thesaurus
+- Parents
+	- [[Schütz|Schutz]]
+	- [[phenomenological psychology|phenomenological psychology]]
+- Siblings
+	- [[constitutive phenomenology of the natural attitude|constitutive phenomenology of the natural attitude]]
+	- [[phenomenological psychology (Husserl)|phenomenological psychology (Husserl)]]
+
+
 ## Literature
 - Butnaru D. 2009. Typification and phantasia: New possibilities for an ontology of the Lebenswelt // Schutzian Research. A Yearbook of Lifeworldly Phenomenology and Qualitative Social Science 1.
 - Costelloe T. 1996. Between the subject and sociology: Alfred Schutz’s phenomenology of the life-world.
@@ -22,5 +31,3 @@
 - [[@gros2017a|Gros A.E. 2017. Alfred Schutz on Phenomenological Psychology and Transcendental Phenomenology // Journal of Phenomenological Psychology.]]
 - [[@wagner1983a|Wagner H. 1983. Toward an anthropology of the life-world: Alfred Schutz's quest for the ontological justification of the phenomenological undertaking // Human Studies.]]
 
-## See also
-- [[конститутивная феноменология естественной установки Шюца|конститутивная феноменология естественной установки Шюца]]
