@@ -34,14 +34,6 @@
 	- Norris argues that this mode of behaviour is a solidarity that makes possible both sefl-sacrifice and [[political authority (Schmitt)|political authority]] ([[@norris1998|Norris 1998]], 77).
 - Marder argues that “the question is the essence of the political, while the political is the essence of the human” ([[@marder2010|Marder 2010]], 87).
 
-## Literature
-- [[@marder2010|Marder M. 2010. Groundless existence: The political ontology of Carl Schmitt. New York: Continuum.]]
-- [[@mccormick1999|McCormick J.P. 1999. Carl Schmitt's Critique of Liberalism: Against Politics as Technology. Cambridge: Cambridge University Press.]]
-- [[@norris1998|Norris A. 1998. Carl Schmitt on Friends, Enemies and the Political // Telos 112: 68-88.]]
-- [[@sartori1989|Sartori G. 1989. The essence of the political in Carl Schmitt // Journal of Theoretical Politics 1(1).]]
-- [[@schmitt2008|Schmitt C. 2008. The Concept of the Political: Expanded edition. Chicago and London: University of Chicago Press.]]
-- [[@strauss2008|Strauss L. 2008. Notes on Carl Schmitt, the Concept of the Political // The Concept of the Political: Expanded edition. Chicago and London: University of Chicago Press.]]
-
 
 ## See also
 - [[crisis of the political life|crisis of the political life]]
@@ -52,3 +44,14 @@
 - [[state (Schmitt)|state (Schmitt)]]
 - [[war (Schmitt)|war (Schmitt)]]
 - [[way of life (Schmitt)|way of life (Schmitt)]]
+
+
+## Literature
+- [[@marder2010|Marder M. 2010. Groundless existence: The political ontology of Carl Schmitt. New York: Continuum.]]
+- [[@mccormick1999|McCormick J.P. 1999. Carl Schmitt's Critique of Liberalism: Against Politics as Technology. Cambridge: Cambridge University Press.]]
+- [[@norris1998|Norris A. 1998. Carl Schmitt on Friends, Enemies and the Political // Telos 112: 68-88.]]
+- [[@sartori1989|Sartori G. 1989. The essence of the political in Carl Schmitt // Journal of Theoretical Politics 1(1).]]
+- [[@schmitt2008|Schmitt C. 2008. The Concept of the Political: Expanded edition. Chicago and London: University of Chicago Press.]]
+- [[@strauss2008|Strauss L. 2008. Notes on Carl Schmitt, the Concept of the Political // The Concept of the Political: Expanded edition. Chicago and London: University of Chicago Press.]]
+
+
