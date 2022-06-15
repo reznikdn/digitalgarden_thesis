@@ -12,13 +12,14 @@
 - вопросы
 	- Тождественны ли world-experience и pure perceptual experience?
 
+## See also
+- [[experienced world|experienced world]]
+- [[world-consciousness & world-experience|world-consciousness & world-experience]]
+- [[world (Husserl)|world (Husserl)]]
 
 ## Literature
 - [[@geniusas2012|Geniusas S. 2012. The Origins of the Horizon in Husserl’s Phenomenology. Dordrecht: Springer.]]
 - [[@steinbock1995|Steinbock A. 1995. Home and Beyond: Generative Phenomenology after Husserl. Northwestern University Press.]]
 
 
-## See also
-- [[experienced world|experienced world]]
-- [[world-consciousness & world-experience|world-consciousness & world-experience]]
-- [[world (Husserl)|world (Husserl)]]
+
