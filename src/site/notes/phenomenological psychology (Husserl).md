@@ -14,6 +14,26 @@
 - naivety of phenomenological psychology
 	- 0 is a transcendental naivety ([[@theodorou2015|@theodorou2015]], 28). 0 consists in this: whereas it focuses on the [[intentionality (Husserl)|intentionally]] appearing and its [[constitution (Husserl)|constitution]], it essentially keeps silently presupposing other realities, e.g. the supposed self-subsistent reality behind the perceptually appearing objects. 
 
+
+## Thesaurus
+- Parents
+	- [[Husserl|Husserl]]
+	- [[phenomenological psychology|phenomenological psychology]]
+	- [[phenomenology|phenomenology]]
+	- [[regional ontology|regional ontology]]
+	- [[region of spirit|region of spirit]]
+	- [[system of sciences (Husserl)|system of sciences (Husserl)]]
+- Siblings
+	- [[a priori anthropology|a priori anthropology]]
+	- [[phenomenological psychology (Schutz)|phenomenological psychology (Schutz)]]
+- Synonyms and Translation
+	- phenomenological psychology – феноменологическая психология
+	- regional ontology of spirit – региональная онтология духа
+	- rational psychology – рациональная психология
+	- eidetic psychology – эйдетическая психология
+
+
+
 ## Literature
 - Churchill S., Morley J., Aanstoos C. The Emergence of Phenomenological Psychology in the United States: A Brief Review // The reception of Husserlian phenomenology in North America. Springer.
 - Davidson L. 2020. Overcoming Psychologism: Husserl and the Transcendental Reform of Psychology. Springer.
@@ -28,9 +48,3 @@
 - [[@staiti2014|Staiti A. 2014. Husserl's Transcendental Phenomenology: Nature, Spirit, and Life.]]
 - [[@theodorou2015|Theodorou P. 2015. Husserl and Heidegger on Reduction, Primordiality, and the Categorial. Phenomenology Beyond its Original Divide.]]
 - [[@welton2000|Welton D. 2000. The other Husserl. The horizons of transcendental phenomenology. Indiana University Press.]]
-
-
-## See also
-- [[phenomenological psychology|phenomenological psychology]]
-- [[region of spirit|region of spirit]]
-- [[system of sciences (Husserl)|system of sciences (Husserl)]]
