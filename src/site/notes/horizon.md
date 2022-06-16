@@ -7,4 +7,4 @@
 ## Thesaurus
 - Authors
 	- [[horizon (Husserl)|horizon (Husserl)]]
-	- [[horizon_Gadamer|horizon (Gadamer)]]
+	- [[horizon (Gadamer)|horizon (Gadamer)]]
