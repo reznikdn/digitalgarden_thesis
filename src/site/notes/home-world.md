@@ -13,9 +13,9 @@
 	- 0 можно представить как охватывающий мир (enveloping world), коллективным эквивалентом [[примордиальная сфера|примордиальной сферы]] [[@husserl1950|Картезианских медитаций]].
 	- В 0 существует процесс [[нормализация у Гуссерля|нормализации]], при котором мы апроприируем наше обычаи, привычки и т.д. как знакомые (familiar) и нормальные, в то время как прочие рассматриваются нами как незнакомые, странные и даже [[abnormality|аномальные]].
 - домашний мир
-	- 0 – универсальное понятие (/поле) структуры “множества установок и коррелятивного ему множества жизненны миров” (смотреть [[attitude & world-horizon|attitude & world-horizon]]) в естественной жизни человека (Луфт 1998, 159).
-	- 0 – сфера, в которой мы чувствуем себя “естественно”, “как дома”, “непринуждённо” (Луфт 1998, 159). 0 – это мир, к которому мы привыкли (/accustomed to).
-	- 0 – не [[world (Husserl)|мир]] единичного субъекта, но [[intersubjectivity (Husserl)|интерсубъективный]] мир, мир традиции, культуры, религии (/мифов), коллективных ценностей, т.е. феномен [[generativity|генеративности]] (Луфт 1998, 159). 
+	- 0 – универсальное понятие (/поле) структуры “множества установок и коррелятивного ему множества жизненны миров” (смотреть [[attitude & world-horizon|attitude & world-horizon]]) в естественной жизни человека ([[@luft1998|Luft 1998]], 159).
+	- 0 – сфера, в которой мы чувствуем себя “естественно”, “как дома”, “непринуждённо” ([[@luft1998|Luft 1998]], 159). 0 – это мир, к которому мы привыкли (/accustomed to).
+	- 0 – не [[world (Husserl)|мир]] единичного субъекта, но [[intersubjectivity (Husserl)|интерсубъективный]] мир, мир традиции, культуры, религии (/мифов), коллективных ценностей, т.е. феномен [[generativity|генеративности]] ([[@luft1998|Luft 1998]], 159). 
 	- 0 – мир определённой семьи, общества, народа, нации… с их собственной исторической традицией (Луфт 1998, 159).
 	- 0 скоррелирован с “домашней установкой” и её подмножеством установок ([[Luft|Luft]] 1998, 159).
 
@@ -26,7 +26,7 @@
 
 ## Литература
 - [[@moran2012|Moran Dermot. 2012. Husserl's crisis of the European sciences and transcendental phenomenology. An introduction.]]
-- [[@luft2021_1|Luft Sebastian. 1998. Husserl's phenomenological discovery of the natural attitude // Continental Philosophy Review 31(2).]]
+- [[@luft2021|Luft Sebastian. 1998. Husserl's phenomenological discovery of the natural attitude // Continental Philosophy Review 31(2).]]
 - Held Klaus. 1991. Heimwelt, Fremdwelt, die eine Welt // Phänomenologische Forschungen 24/25.
 - [[@steinbock1995|Steinbock Anthony. 1995. Home and Beyond: Generative phenomenology after Husserl. Evanston/lllinois: Northwestern.]]
 - Zabarjadisar H. The other at the threshold: A Husserlian analysis of ethics and violence in the home/alien encounter. – 2020.
