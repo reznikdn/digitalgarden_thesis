@@ -22,23 +22,24 @@
 	- Концепт жизненного мира обладает двумя ключевыми характеристиками в конституировании общностей людей: 1. Он функционирует как горизонт общественной деятельности. "Transcendental intersubjecivity entails a necessary relation to transcendence, to a common world". 2. Общность привязана к материальным, конкретным условиям гео-социального окружения. Общность - не просто вопрос общих норм, идей и прочего; она должна пониматься в отношении к определённой территориальности. (cмотреть также: [[общность в феноменологии|общность в феноменологии]]).
 
 
+## Static concept of the world-horizon
+- 0 = core concept of the world-horizon, thin concept of the world-horizon ([[@bower2013|Bower 2013]], 16-17).
+- 0 is concerned with an [[eidos (Husserl)|eidos]] of the world-horizon ([[@bower2013|Bower 2013]], 16-17).
+- The [[static phenomenology|statically]] derived concept of the world captures, [[Bower|Bower]] claims, something similar to what was of interest to [[Kant|Kant]] in his [[transcendental aesthetic (Kant)|transcendental aesthetic]], namely, the spatiotemporal form of perceptual experience ([[@bower2013|Bower 2013]], 16).
+- [[eidetic reduction|Eidetic variation]] of world-horizon is not equal to eidetic variation of an [[object (Husserl)|intentional object]] because the last can be given as identifiable, as something completely identical in its own right, whereas the world-horizon is [[pregivenness|pregiven]] ([[@bower2013|@bower2013]], 22). World-horizon does not have an immediate core of experience as the thing does; it has only an indirect tie to this core ([[@bower2013|@bower2013]], 23).
+- 0 implies that world-horizon gives my present experience the sense of direct contact with only a “segment” of the world ([[@husserl2012b|Hua XLI]], 362; cit. by [[@bower2013|@bower2013]], 24)
 
-## Доделать
+## Construction of the world-horizon
+- 0 is an [[eidos (Husserl)|eidetic]] exploration of the [[world-horizon|world-horizon]], where the researcher clarifies the idea of the the factual [[world (Husserl)|world]] as a world of experience, with the result that what is thus constructed is now his fundamental example for [[eidetic reduction|eidetic variation]] in which this fact is raised into mere pure possibility ([[@husserl2012b|Hua XLI]], No. 29; [[@bower2013|@bower2013]], 24).
+- 0 is a [[reflection|reflection]] on what, over and above [[thing (Husserl)|things]] remains identical when one considers various actual experiences.
 
 
-- static concept of the world-horizon
-	- 0 = core concept of the world-horizon, thin concept of the world-horizon ([[@bower2013|Bower 2013]], 16-17).
-	- 0 is concerned with an [[eidos (Husserl)|eidos]] of the world-horizon ([[@bower2013|Bower 2013]], 16-17).
-	- The [[static phenomenology|statically]] derived concept of the world captures, [[Bower|Bower]] claims, something similar to what was of interest to [[Kant|Kant]] in his [[transcendental aesthetic (Kant)|transcendental aesthetic]], namely, the spatiotemporal form of perceptual experience ([[@bower2013|Bower 2013]], 16).
-	- [[eidetic reduction|Eidetic variation]] of world-horizon is not equal to eidetic variation of an [[object (Husserl)|intentional object]] because the last can be given as identifiable, as something completely identical in its own right, whereas the world-horizon is [[pregivenness|pregiven]] ([[@bower2013|@bower2013]], 22). World-horizon does not have an immediate core of experience as the thing does; it has only an indirect tie to this core ([[@bower2013|@bower2013]], 23).
-	- 0 implies that world-horizon gives my present experience the sense of direct contact with only a “segment” of the world ([[@husserl2012b|Hua XLI]], 362; cit. by [[@bower2013|@bower2013]], 24)
-- construction of the world-horizon
-	- 0 is an [[eidos (Husserl)|eidetic]] exploration of the [[world-horizon|world-horizon]], where the researcher clarifies the idea of the the factual [[world (Husserl)|world]] as a world of experience, with the result that what is thus constructed is now his fundamental example for [[eidetic reduction|eidetic variation]] in which this fact is raised into mere pure possibility ([[@husserl2012b|Hua XLI]], No. 29; [[@bower2013|@bower2013]], 24).
-	- 0 is a [[reflection|reflection]] on what, over and above [[thing (Husserl)|things]] remains identical when one considers various actual experiences.
-- totality of the world-horizon
-	- 0 is not a reference to a particular [[thing (Husserl)|thing]] or collection of things, but to integrated unity in contradistinction to a simply sum oh the objects ([[@husserl2008|Hua XXXIX]], 210; cit. by [[@bower2013|@bower2013]], 37). 
-- world-horizon as totality of entities
-	- If we understand by world-horizon the totality of entities, this would seem to suggest that the entities are what make the world possible, or at most that world, and individual entities are interdependent ([[@husserl1954|Hua VI]], 146; [[@husserl1968|Hua IX]],  96; see also [[@overgaard2004|@overgaard2004]], 115). But the investigation of perceptual [[intentionality (Husserl)|intentionality]] shows the [[horizon (Husserl)|horizon]] is the condition of possibility of [[entity (Husserl)|entities]], and not vice versa. 
+## Totality of the world-horizon
+- 0 is not a reference to a particular [[thing (Husserl)|thing]] or collection of things, but to integrated unity in contradistinction to a simply sum oh the objects ([[@husserl2008|Hua XXXIX]], 210; cit. by [[@bower2013|@bower2013]], 37). 
+
+
+## World-horizon as totality of entities
+- If we understand by world-horizon the totality of entities, this would seem to suggest that the entities are what make the world possible, or at most that world, and individual entities are interdependent ([[@husserl1954|Hua VI]], 146; [[@husserl1968|Hua IX]],  96; see also [[@overgaard2004|@overgaard2004]], 115). But the investigation of perceptual [[intentionality (Husserl)|intentionality]] shows the [[horizon (Husserl)|horizon]] is the condition of possibility of [[entity (Husserl)|entities]], and not vice versa. 
 
 ## Thesaurus
 - &
