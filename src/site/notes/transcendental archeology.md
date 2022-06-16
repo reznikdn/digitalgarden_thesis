@@ -3,9 +3,10 @@
 ---
 
 # transcendental archeology
-- The task of the 0 is to excavate the ultimate origins of [[genesis (Husserl)|transcendental genesis]], i.e. the _Archai_ ([[@lee1993|Lee 1993]], 77).
-	- Предмет 0 – это [[primal institution|протоучреждение]] ([[@chernavin2011|Chernavin 2011]], 111). Генетически-археологическое исследование пытается реконструировать положение [[primal institution|протоучреждения]] (и даже до него) ([[@chernavin2011|Chernavin 2011]], 112).
+- 0 is the [[phenomenology|phenomenological]] approach that can be identified with the [[genetic phenomenology|genetic phenomenology]].
 - The method of 0 is the [[dismantling|dismantling analysis]] ([[@lee1993|Lee 1993]], 77).
+- The task of the 0 is to excavate the ultimate origins of [[genesis (Husserl)|transcendental genesis]], i.e. the _Archai_ ([[@lee1993|Lee 1993]], 77).
+	- The subject of 0 is the [[primal institution|primal institution]] ([[@chernavin2011|Chernavin 2011]], 111). Genetic-archeological research attempts to [[reconstruction|reconstruct]] the position of the primal institution (and even before it) ([[@chernavin2011|Chernavin 2011]], 112).
 
 
 ## See also
