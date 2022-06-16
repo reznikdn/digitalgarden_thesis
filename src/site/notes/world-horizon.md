@@ -68,7 +68,7 @@
 - [[@husserl1954|Husserl E. (Hua VI). 1954. Die Krisis der europäischen Wissenschaften und die transzendentale Phänomenologie. Den Haag: Martinus Nijhoff.]]
 - [[@husserl2008|Husserl E. (Hua XXXIX). 2008. Die Lebenswelt: Auslegungen der vorgegebenen Welt und ihrer Konstitution. Dordrecht: Springer.]]
 - [[@kwan1990|Kwan T.W. 1990. Husserl’s concept of horizon: An attempt at reappraisal // The moral sense and its foundational significance: Self, person, historicity, community.]]
-- [[@luft2021_1|Luft S. 2021. Husserl's phenomenological discovery of the natural attitude // Subjectivity and Lifeworld in Transcendental Phenomenology. Northwestern University Press.]]
+- [[@luft2021|Luft S. 2021. Husserl's phenomenological discovery of the natural attitude // Subjectivity and Lifeworld in Transcendental Phenomenology. Northwestern University Press.]]
 - [[@merleau-ponty1945|Merleau-Ponty M. 1945. Phénoménologie de la perception. Paris: Gallimard.]]
 - [[@miettinen2020|Miettinen T. 2020. Husserl and the Idea of Europe. Northwestern University Press.]]
 - [[@overgaard2004|Overgaard S. 2004. Husserl and Heidegger on Being in the World. Springer.]]
