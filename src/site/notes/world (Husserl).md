@@ -3,7 +3,6 @@
 ---
 
 # world (Husserl)
-- world (eng) – мир (рус) – Welt (de).
 - 0 = [[life-world (Husserl)|life-world]] = [[experienced world|experienced world]].
 	- See also [[relation between world-concepts (Husserl)|relation between world-concepts (Husserl)]].
 - 0 is a multidimensional sense-formation (multidimensionales Sinngebilde) ([[@sowa2008|Sowa 2008]], LXI; [[@lee2019|Lee 2019]], 49-50).
@@ -114,50 +113,50 @@ The theme is in the progress. See the content [[pregivenness of the world|here]]
 - Brudzińska J. 2014. Becoming a Person in the Life-World // Paradigmi. Rivista dicritica filosofica 3. 
 - [[@carr1974|Carr D. 1974. Phenomenology and the Problem of History: A study of Husserl's Transcendental Philosophy. Northwestern University Press.]]
 - [[@carr1977a|Carr D. 1977. Husserl's Problematic Concept of the Life-world // Husserl: Expositions and Appraisals.]]
-- [[@carr1987|Carr D. 1987. Husserl's World and Ours.]] ==добавить==
+- [[@carr1987|Carr D. 1987. Husserl's World and Ours.]] 
 - [[@carr1989|Carr D. 1989. The life-world revisited // Husserl's Phenomenology: A Textbook.]]
 - Carr D. 2014. The emergence and transformation of Husserl’s concept of world // Phenomenology and the transcendental. New York: Routledge.
-- Carr D. ==добавить год== The Emergence and Transformation of Husserl’s Concept of World // Phenomenology and the Transcendental. Routledge.
+- Carr D.  The Emergence and Transformation of Husserl’s Concept of World // Phenomenology and the Transcendental. Routledge.
 - [[@chernavin2011|Chernavin G. 2011. Transzendentale Archäologie – Ontologie – Metaphysik: Methodologische Alternativen in der phänomenologischen philosophie Husserls. Nordhausen: Traugott Bautz.]]
-- Davis H. 1992. Lifeworld as Built World // Phenomenology of Natural Science. ==добавить==
-- Dorfman E. 2009. History of the lifeworld: From Husserl to Merleau-Ponty. ==добавить==
+- Davis H. 1992. Lifeworld as Built World // Phenomenology of Natural Science.
+- Dorfman E. 2009. History of the lifeworld: From Husserl to Merleau-Ponty. 
 - Dreher J. 2003. The symbol and the theory of the life-world: The transcendences of the life-world and their overcoming by signs and symbols // Human Studies 26(2).
 - [[@dzanic2020|Džanić D. 2020. The Earth and Pregivenness in Transcendental Phenomenology // Research in Phenomenology 50(1).]]
 - Evans J.C. 2013. Where is the Life-World? // Issues in Husserl’s Ideas II. Dordrecht: Kluwer.
-- Ferrarin A. 2006. Passive synthesis and life-world. ==добавить==
-- [[@gadamer1972|Gadamer Hans-Georg. 1972. The science of the life-world.]] ==добавить==
+- Ferrarin A. 2006. Passive synthesis and life-world. 
+- [[@gadamer1972|Gadamer Hans-Georg. 1972. The science of the life-world.]] 
 - [[@geniusas2012|Geniusas S. 2012. The Origins of the Horizon in Husserl’s Phenomenology. Dordrecht: Springer.]]
 - [[@gurwitsch1970|Gurwitsch A. 1970. Problems of the Life-World // Phenomenology and Social Reality: Essays in Memory of Alfred Schutz. The Hague: Martinus Nijhoff.]]
 - Gurwitsch A. 1974. The Lifeworld and the Phenomenological Theory of Science // Phenomenology and the Theory of Science.
-- Held K. 2003. Husserl’s phenomenology of the life-world. ==добавить==
+- Held K. 2003. Husserl’s phenomenology of the life-world. 
 - [[@husserl1954|Husserl E. (Hua VI). 1954. Die Krisis der europäischen Wissenschaften und die transzendentale Phänomenologie. Den Haag: Martinus Nijhoff.]]
-- Kersen F. The Lifeworld Revisited. ==добавить==
+- Kersen F. The Lifeworld Revisited. 
 - Knies K. 2011. Three Views of the One True World and What They Make of Mere Worldviews: A Husserlian Approach to Weltanschauung.
 - Kockelmans J.J. 1986. Phenomenological conceptions of the life-world // The Moral Sense in the Communal Significance of Life.
 - [[@lee2019|Lee N.-I. 2019. The Pluralistic Concept of the Life-World and the Various Fields of the Phenomenology of the Life-World // Husserl Husserl Studies 36 (1).]]
-- Mensch J. 2017. Life and the Reduction to the Life-World. ==добавить==
+- Mensch J. 2017. Life and the Reduction to the Life-World.
 - Meyn H.L. 1974. Special Contribution to the Debate: The" Life-World" and the "A Priori"-Opposites or Complementaries? // Analecta Husserliana 3(a).
-- [[@mickunas1997|Mickunas A. 1997. Lifeworld and History // Husserl in Contemporary Context.]] ==добавить==
+- [[@mickunas1997|Mickunas A. 1997. Lifeworld and History // Husserl in Contemporary Context.]] 
 - [[@mohanty1974|Mohanty J.N. 1974. ‘Life-world’ and ‘a priori’ in Husserl’s later thought // The Phenomenological Realism of the Possible Worlds. Springer.]]
 - Moran D. 2011. Gadamer and Husserl on horizon, intersubjectivity, and the life-world // Gadamer’s Hermeneutics and the Art of Conversation.
-- [[@moran2012|Moran D. 2012. Husserl's crisis of the European sciences and transcendental phenomenology. An introduction.]] ==добавить==
-- Moran D. 2013. From the natural attitude to the life-world. ==добавить==
-- [[@moran2015|Moran D. 2015. Everydayness, historicity and the world of science: Husserl’s life-world reconsidered.]] ==добавить==
+- [[@moran2012|Moran D. 2012. Husserl's crisis of the European sciences and transcendental phenomenology. An introduction.]] 
+- Moran D. 2013. From the natural attitude to the life-world. 
+- [[@moran2015|Moran D. 2015. Everydayness, historicity and the world of science: Husserl’s life-world reconsidered.]] 
 - Moran D. 2017. The Phenomenology of the Social World: Husserl on Mitsein as Ineinandersein and Füreinandersein // Metodo 1.
-- Nenon T. 2013. Intersubjectivity, Interculturality, and Realities in Husserl’s Research Manuscripts on the Life-World (Hua XXXIX) // The phenomenology of embodied subjectivity. ==добавить==
-- Płotka W. 2016. Knowledge and the lifeworld: phenomenological-transcendental investigations // The Cosmos and the Creative Imagination. ==добавить==
+- Nenon T. 2013. Intersubjectivity, Interculturality, and Realities in Husserl’s Research Manuscripts on the Life-World (Hua XXXIX) // The phenomenology of embodied subjectivity. 
+- Płotka W. 2016. Knowledge and the lifeworld: phenomenological-transcendental investigations // The Cosmos and the Creative Imagination. 
 - Pugliese A. et al. 2017. Lebenswelt als Praktischer Horizont // Horizon. Феноменологические исследования 6(2).
 - [[@pulkkinen2013|Pulkkinen S. 2013. Lifeworld as an Embodiment of Spiritual Meaning: The Constitutive Dynamics of Activity and Passivity in Husserl // The phenomenology of embodied subjectivity. Springer]]
 - Rulun Z. 1999. Lifeworld and the Possibility of Intercultural Understanding // The Bases of Values in a Time of Change: Chinese and Western.
 - Scanlon J. 1992. The Manifold Meanings of ‘Life World’ in Husserl’s Crisis // American Catholic Philosophical Quarterly 66(2).
 - Schiemann G. 2014. One cognitive style among others: Towards a phenomenology of the lifeworld and of other experiences // The multidimensionality of hermeneutic phenomenology.
-- [[@staiti2014|Staiti A. 2014. Husserl's Transcendental Phenomenology: Nature, Spirit, and Life.]] ==добавить==
+- [[@staiti2014|Staiti A. 2014. Husserl's Transcendental Phenomenology: Nature, Spirit, and Life.]] 
 - [[@steinbock1995|Steinbock A. 1995. Home and Beyond: Generative Phenomenology after Husserl. Northwestern University Press.]]
-- Steinbock A.J. 2004 Facticity and Insight in the Lifeworld. On Individuation. ==добавить==
+- Steinbock A.J. 2004 Facticity and Insight in the Lifeworld. On Individuation. 
 - Strasser S. 1976. Der Begriff der Welt in der phänomenologischen Philosophie // Phänomenologische Forschung 3.  
-- [[@ströker2013|Ströker E. 2013. The Husserlian foundations of science.]] ==добавить==
-- [[@taguchi2017|Taguchi S. 2017. Annihilation of the World? Husserl’s Rehabilitation of Reality // Perception, Affectivity, and Volition in Husserl’s Phenomenology.]] ==добавить==
+- [[@ströker2013|Ströker E. 2013. The Husserlian foundations of science.]] 
+- [[@taguchi2017|Taguchi S. 2017. Annihilation of the World? Husserl’s Rehabilitation of Reality // Perception, Affectivity, and Volition in Husserl’s Phenomenology.]] 
 - Tani T. 1986. Life and the life-world // Husserl Studies 3(1).
-- Todres L. 2005. Clarifying the life-world: Descriptive phenomenology // Qualitative research in health care. ==добавить==
+- Todres L. 2005. Clarifying the life-world: Descriptive phenomenology // Qualitative research in health care.
 - [[@welton2000|Welton D. 2000. The other Husserl. The horizons of transcendental phenomenology. Indiana University Press.]]
-- Welz F. 2013. Kritik der Lebenswelt: Eine soziologische Auseinandersetzung mit Edmund Husserl und Alfred Schütz. ==добавить==
+- Welz F. 2013. Kritik der Lebenswelt: Eine soziologische Auseinandersetzung mit Edmund Husserl und Alfred Schütz. 
