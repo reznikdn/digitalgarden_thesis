@@ -3,9 +3,6 @@
 ---
 
 # Political as a Figure of Otherness
-
-[[220616 эссе с нужными ссылками|220616 эссе с нужными ссылками]]
-
 ## 1. Introduction
 There is a peculiar gap in the few politically sophisticated phenomenological literature focused on Husserl's methodology. It describes only the institution event of the political in the historical movement of the community, but not its essential structure and its place in subject’s and community’s experience. Meanwhile, it is these two themes that are most important in the phenomenological approach. [[ontology of the life-world|Ontology of the life-world]], which describes the invariant structure of the [[phenomenon|phenomenon]] under study, and [[transcendental archeology|transcendental archeology]], which reveals the passive genesis of this phenomenon, are the two of the three main methods presented by the late Husserl (where the third one is the [[phenomenological metaphysics|phenomenological metaphysics]]) (see [[@chernavin2011|Chernavin 2011]]). In other words, modern phenomenologists are concerned only with the [[active genesis|active genesis]] of the political world, missing the more fundamental aspects of its phenomenality.
 
@@ -49,58 +46,58 @@ In the first part of the essay, I will consider the phenomenological approach to
 16. There is a possibility of radicalization of no. 14.
 	- Although no. 14, I suppose that the political world is not necessarily connected with the institution of the “free-space” of discussion. The Held reasoning just gets stuck on the “political space” of discussing one’s own horizons. I suppose that there should be a possibility of radicalization of no. 14, that there is more fundamental level of the political.
 	- And we actually can find a hint for this possibility within the contemporary phenomenological discourse. Timo Miettinen argues that [[theoretical attitude|theoretical attitude]] and [[philosophy|philosophy]] itself originated from the Greek practice of *theoria*, that is a “kind of anthropological field of study or ‘travelogue’ that aimed at providing information on the beliefs and practices of individual city states” ([[@miettinen2015|Miettinen 2015]], 243). And if we compare no. 14-15 and Timo's reasoning, we see the following parallel. Although Miettinen does not write of the inauguration of the political, it is easy to assume that in case of his reasoning, this inauguration would be connected not with relations within the state, but with relations between many states. Therefore, the political world is not connected with the state as such. Rather, it should be associated with the otherness, with the collision of alien particular worlds.
-15. Political world is a horizon of co-encounter of the totality of particular worlds.
+17. Political world is a horizon of co-encounter of the totality of particular worlds.
 	- The radicalization of no. 14 is the consideration of the political as the horizon of otherness, of alienation, of another ways of life that questions our own particular worlds.
 	- The political world must be analyzed as a horizon of [[alien-world|foreign-worlds]] that we encounter. Modern phenomenological theory, as we see in Held’s work, does not offer us the necessary tools for this. But we actually can find this analysis in existential-political interpretation of Carl Schmitt’s philosophy.
 
 
 ## 3. Ontology of the Political World
-16. Schmitt’s conceptualization of the political can be interpreted as the thematization of the more fundamental level of the political world, then in no. 14-15.
+18. Schmitt’s conceptualization of the political can be interpreted as the thematization of the more fundamental level of the political world, then in no. 14-15.
 	- What could interest us in Held’s phenomenological explication of the political is first of all the consideration of the political as a collision of particular worlds. Held speaks of this encounter as the discovery of a “political space” in which the particular worlds from just co-present become mutually negotiable. But can we radicalize this position? Can we discover an even more fundamental essence of the political that would underlie Held's description? I believe that by turning to the works of Schmitt, we can indeed make such a move.
-17. No. 18-23 are preliminary remarks where no. 18-20 are Schmitt’s theses and no. 21-23 are additions to them that binds Schmitt’s philosophy to the phenomenological reasoning more closely.
-18. [[Schmitt|Schmitt]] argues that the enemy is solely the public enemy ([[@schmitt2008|Schmitt 2008]], 28) and that a private person has no political enemies ([[@schmitt2008|Schmitt 2008]], 51).
-19. Schmitt argues that there is a [[way of life (Schmitt)|way of life]] (/form of existence) which I share with my community ([[@schmitt2008|Schmitt 2008]], 27ff.).
-20. Schmitt claims that the [[political (Schmitt)|political]] is not a domain (/sphere /substance) ([[@schmitt2008|Schmitt 2008]], 38).
-	- Schmitt proposes to view the political not as “other” domains but as a form or a structure of their interrelations (see no. 24).
-21. The way of life is identical with the concrete [[particular world|particular world]].
+19. No. 20-25 are preliminary remarks where no. 20-22 are Schmitt’s theses and no. 23-25 are additions to them that binds Schmitt’s philosophy to the phenomenological reasoning more closely.
+20. [[Schmitt|Schmitt]] argues that the enemy is solely the public enemy ([[@schmitt2008|Schmitt 2008]], 28) and that a private person has no political enemies ([[@schmitt2008|Schmitt 2008]], 51).
+21. Schmitt argues that there is a [[way of life (Schmitt)|way of life]] (/form of existence) which I share with my community ([[@schmitt2008|Schmitt 2008]], 27ff.).
+22. Schmitt claims that the [[political (Schmitt)|political]] is not a domain (/sphere /substance) ([[@schmitt2008|Schmitt 2008]], 38).
+	- Schmitt proposes to view the political not as “other” domains but as a form or a structure of their interrelations (see no. 26).
+23. The way of life is identical with the concrete [[particular world|particular world]].
 	- See no. 4. It could also be equated with many other synonymous concepts in other philosophical systems. For example, with the [[form of human life|forms of human life]] in [[Wittgenstein|Wittgenstein’s]] philosophy.
-22. The political as the non-substantial antithesis is identical with the [[essence (Husserl)|essence]] of the political world as a particular world.
-	- The political world as in the statement no. 20 can be considered through the conceptual framework of [[essence (Husserl)|essence]] and [[eidetic reduction|eidetic reduction]] in [[Husserl|Husserl’s]] [[phenomenology|phenomenology]]. The formal representation of the political in Schmitt’s philosophy could also be applied to many other particular worlds. For example, a [[historical world|historical world]] can also be considered, on the one hand, as a concrete historical horizon of a culture and, on the other hand, as the essential structure of any concrete particular world. Non-substantially considered [[history|history]] is, roughly speaking, a [[horizon|horizon]] of preservation, “passing forward” and appropriation of community’s sense-formations. And such a representation of the historical world is parallel to Schmitt's non-substantial representation of the political.
+24. The political as the non-substantial antithesis is identical with the [[essence (Husserl)|essence]] of the political world as a particular world.
+	- The political world as in the statement no. 22 can be considered through the conceptual framework of [[essence (Husserl)|essence]] and [[eidetic reduction|eidetic reduction]] in [[Husserl|Husserl’s]] [[phenomenology|phenomenology]]. The formal representation of the political in Schmitt’s philosophy could also be applied to many other particular worlds. For example, a [[historical world|historical world]] can also be considered, on the one hand, as a concrete historical horizon of a culture and, on the other hand, as the essential structure of any concrete particular world. Non-substantially considered [[history|history]] is, roughly speaking, a [[horizon|horizon]] of preservation, “passing forward” and appropriation of community’s sense-formations. And such a representation of the historical world is parallel to Schmitt's non-substantial representation of the political.
 	- Just like the political world, – which is not the constant structure of the communities (e.g., [[@schmitt2008|Schmitt 2008]], 35, 39), – the historical world is the [[historical a priori (Husserl)|historical a priori]] which, paradoxically, has its own act of [[primal institution|primal institution]]. There should be a point and place in the history of [[community (Husserl)|community]] when the historical (and political) as such was inaugurated. There could be (and actually were) communities that know no history (e.g., [[@moran2011|Moran 2011]], 466f.).
-23. The [[enemy (Schmitt)|enemy]] is not only the group’s enemy, but also the enemy for me-as-a-member-of-the-group.
+25. The [[enemy (Schmitt)|enemy]] is not only the group’s enemy, but also the enemy for me-as-a-member-of-the-group.
 	-  Of course, by the thesis “the enemy is solely the public enemy” Schmitt highlights significant difference between the *hostis* and the *inimicus*. But on the other hand, as a member of the group, I am also involved in the confrontation with the enemy. He is an enemy of the particular world which I also share with my friends.
-24. The [[political (Schmitt)|political]] in [[Schmitt|Schmitt’s]] philosophy describes “the intensity of an association or dissociation of human beings” ([[@schmitt2008|Schmitt 2008]], 38).
+26. The [[political (Schmitt)|political]] in [[Schmitt|Schmitt’s]] philosophy describes “the intensity of an association or dissociation of human beings” ([[@schmitt2008|Schmitt 2008]], 38).
 	 - The political consist of the degree of intensity at which other spheres are politicized ([[@sartori1989|Sartori 1989]], 65). “Political questions cannot be dealt with only politically” ([[@marder2010|Marder 2010]], 96). Every sphere is potentially political due to a possible increase in the intensities of association and dissociation structuring it ([[@marder2010|Marder 2010]], 65).
-25. The utmost degree of intensity of an association or dissociation is denoted by the [[friend-enemy distinction (Schmitt)|friend-enemy criterion]] ([[@schmitt2008|Schmitt 2008]], 26).
+27. The utmost degree of intensity of an association or dissociation is denoted by the [[friend-enemy distinction (Schmitt)|friend-enemy criterion]] ([[@schmitt2008|Schmitt 2008]], 26).
 	- And the greater the intensity of antagonism between the groups, the stronger this distinction. As the presence of the political determines through possibility (namely, through the possibility of [[war (Schmitt)|war]]), so too the enemy as a potential enemy is always present in the dissociation between the groups.
-26. The friend-enemy distinction is the foundation of the political itself / The friend-enemy distinction constitutes the political ([[@marder2010|Marder 2010]], 87).
-27. The [[enemy (Schmitt)|enemy]] is the one who is able to destroy my way of life (see [[@schmitt2008|Schmitt 2008]], 49; see also [[@norris1998|Norris 1998]], 75-76).
+28. The friend-enemy distinction is the foundation of the political itself / The friend-enemy distinction constitutes the political ([[@marder2010|Marder 2010]], 87).
+29. The [[enemy (Schmitt)|enemy]] is the one who is able to destroy my way of life (see [[@schmitt2008|Schmitt 2008]], 49; see also [[@norris1998|Norris 1998]], 75-76).
 	- The confrontation between groups is based not on their pure co-presence but on the radical otherness of their ways of life. The other way of life that is strange to me, can be destructive for my own particular world. 
-28. The enemy is the one who existentially puts me in question ([[@marder2010|Marder 2010]], 87-88).
+30. The enemy is the one who existentially puts me in question ([[@marder2010|Marder 2010]], 87-88).
 	- The possibility of destroying my way of life necessarily calls it into question. Moreover, this question is meant in an existential sense – in the sense of a call for establishment and thematization of one's own horizons. What way of life does my enemy potentially destroy? Is this way of life worth defending? The enemy is defined by this very act of questioning. He doles out my [[identity|identity]] to me by this very act ([[@marder2010|Marder 2010]], 88). 
-29. Compared to no. 9-15 reasoning, which only thematizes the political and allows it to be noticed, Schmitt's philosophy describes its essential structure.
-30. The essence of the political world is the intensity of antagonism between the [[home-world|home-world]] and the [[alien-world|foreign-world]].
+31. Compared to no. 9-15 reasoning, which only thematizes the political and allows it to be noticed, Schmitt's philosophy describes its essential structure.
+32. The essence of the political world is the intensity of antagonism between the [[home-world|home-world]] and the [[alien-world|foreign-world]].
 
 
 ## 4. Transcendental Archeology of the Political World
-31. Although no. 18, Schmitt also claims that the [[enemy (Schmitt)|enemy]] is *my own* question ([[@schmitt1991|Schmitt 1991]], 243; [[@schmitt2002|Schmitt 2002]], 89-90).
+33. Although no. 20, Schmitt also claims that the [[enemy (Schmitt)|enemy]] is *my own* question ([[@schmitt1991|Schmitt 1991]], 243; [[@schmitt2002|Schmitt 2002]], 89-90).
 	- The enemy “is the other, the stranger”, that he is “existentially something different and alien” ([[@schmitt2008|Schmitt 2008]], 27).
-32. No. 32 contradicts 18.
-	- No. 18 presupposes that the enemy can question me only as the member of the community with an intersubjectively shared way of life. 
-	- But in no. 32 there is no any community. I suppose that in order to prevent the contradiction we should make the following move.
-33. In order to prevent no. 32 we should differentiate two concepts of the enemy: the enemy as the community’s enemy and the enemy as [[the alien|the alien]].
+34. No. 34 contradicts 20.
+	- No. 20 presupposes that the enemy can question me only as the member of the community with an intersubjectively shared way of life. 
+	- But in no. 34 there is no any community. I suppose that in order to prevent the contradiction we should make the following move.
+35. In order to prevent no. 34 we should differentiate two concepts of the enemy: the enemy as the community’s enemy and the enemy as [[the alien|the alien]].
 	- It is a distinction between the enemy as a bearer of horizons that unfamiliar to me and call into question my own way of life and the enemy as a radical alienness within me, by virtue of which I, – as a subject with my own perspective, – am possible at all.
-34. The enemy as the alien can be thematized through its differentiation with the other.
-35. There is a distinction between [[the other|the other]] and [[the alien|the alien]]: while the other is the “second” ego, the alien represents “not me” or “foreign to me”.
+36. The enemy as the alien can be thematized through its differentiation with the other.
+37. There is a distinction between [[the other|the other]] and [[the alien|the alien]]: while the other is the “second” ego, the alien represents “not me” or “foreign to me”.
 	- The other as “the second” is dependent upon the first and grounded in the first ([[@steinbock1995|Steinbock 1995]], 59). The other is the other self; the other is possible only insofar as I am; I am a condition of the possibility of the other – it is typical Cartesian perspective that is presented in Husserl’s Meditations ([[@husserl1950|Hua I]]). At the same time, the alien is someone (something) that cannot be after me. It is someone through which I find myself as “my own perspective”. 
-36. The alien is a prototype of any difference ([[@marder2010|Marder 2010]], 87).
+38. The alien is a prototype of any difference ([[@marder2010|Marder 2010]], 87).
 	-  The alien accomplishes the real work of heteronomy, unhinging and maintaining undone the figure of the human conceived as “an open question” ([[@marder2010|Marder 2010]], 87). The alien is a mechanism of distantiation (including self-distantiation).
-37. The alien is the essential structure of the [[subjectivity|subjectivity]] itself and it’s [[experience|experience]].
+39. The alien is the essential structure of the [[subjectivity|subjectivity]] itself and it’s [[experience|experience]].
 	- The alien as the [[primal fact|primal fact]] of our experience creates “the perspective” as such. Perspective is a view that differs from the alien view. The alien calls to me as my own perspective which “differs”. The alien is a part of me as calling a question to myself; it is me asking myself a question.
-38. (Since no. 37,) The alien is the [[constitution (Husserl)|constitutional foundation]] of the enemy.
-	- In order to no. 19 and no. 27 be valid, I have to have “my own” way of life. But in order to have "my own" way of life, “my” experience must have the property [[mineness|mineness]], which is possible only because there is the alienness within the [[experience|experience]].
-39. (Since no. 37,) The alien is the constitutional foundation of the particular world itself and the antagonism between the particular worlds.
-	- The particular world is an intersubjective world which unites a plurality of perspectives. According to the reasoning no. 37, the particular world and the plurality of the particular worlds are possible because there is an alien creating the distinction between the perspectives itself.
+40. (Since no. 39,) The alien is the [[constitution (Husserl)|constitutional foundation]] of the enemy.
+	- In order to no. 21 and no. 29 be valid, I have to have “my own” way of life. But in order to have "my own" way of life, “my” experience must have the property [[mineness|mineness]], which is possible only because there is the alienness within the [[experience|experience]].
+41. (Since no. 39,) The alien is the constitutional foundation of the particular world itself and the antagonism between the particular worlds.
+	- The particular world is an intersubjective world which unites a plurality of perspectives. According to the reasoning no. 39, the particular world and the plurality of the particular worlds are possible because there is an alien creating the distinction between the perspectives itself.
 
 
 ## 5. Conclusion
