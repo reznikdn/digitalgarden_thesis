@@ -27,5 +27,5 @@
 
 
 ## Literature
-- [[@luft2021_1|Luft S. 2021. Husserl's phenomenological discovery of the natural attitude // Subjectivity and Lifeworld in Transcendental Phenomenology. Northwestern University Press.]]
+- [[@luft2021|Luft S. 2021. Husserl's phenomenological discovery of the natural attitude // Subjectivity and Lifeworld in Transcendental Phenomenology. Northwestern University Press.]]
 - [[@yudin2012|Юдин Г.Б. 2012. Феноменологическая редукция в эпистемологии социальной науки. Национальный Исследовательский Университет “Высшая Школа Экономики”.]]
