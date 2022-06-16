@@ -4,6 +4,8 @@
 
 # horizon
 
+
+
 ## Thesaurus
 - Authors
 	- [[horizon (Husserl)|horizon (Husserl)]]
