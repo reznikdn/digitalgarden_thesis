@@ -3,6 +3,7 @@
 ---
 
 # Political as a Figure of Otherness
+
 ## 1. Introduction
 There is a peculiar gap in the few politically sophisticated phenomenological literature focused on Husserl's methodology. It describes only the institution event of the political in the historical movement of the community, but not its essential structure and its place in subject’s and community’s experience. Meanwhile, it is these two themes that are most important in the phenomenological approach. [[ontology of the life-world|Ontology of the life-world]], which describes the invariant structure of the [[phenomenon|phenomenon]] under study, and [[transcendental archeology|transcendental archeology]], which reveals the passive genesis of this phenomenon, are the two of the three main methods presented by the late Husserl (where the third one is the [[phenomenological metaphysics|phenomenological metaphysics]]) (see [[@chernavin2011|Chernavin 2011]]). In other words, modern phenomenologists are concerned only with the [[active genesis|active genesis]] of the political world, missing the more fundamental aspects of its phenomenality.
 
