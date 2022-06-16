@@ -8,6 +8,8 @@
 - [[Welton|Welton]] (2000) утверждает, что сущность является предметом, а не общим названием для набора предметов. Но она есть предмет другого порядка. Сущность, подобно всякому предмету, даётся в созерцании, но это специфическая эйдетическая интуиция (cмотреть также: [[eidetic reduction|eidetic reduction]]).
 - 0 is the conceptual content determining the a singular [[object (Husserl)|individual]] as being an individual of a very specific kind ([[@majolino2015|@majolino2015]], 37).
 - “Essences are the objects of formal logic, i.e. of a judgment, be it universal or about single particulars, and have no ontological reality” ([[@breuer2020|Breuer 2020]], 215).
+
+
 ## Broad and narrow notion of essence
 - 1 is “Essenz”, “Was sein”, “So-sein”. To 1 belongs the [[tode ti|tode ti]] ([[@majolino2015|Majolino 2015]], 38). Essenz includes both the particularity and singulatiry of any individual object. 1 is the stock or set of predicables but “individualized” _hic et nunc_ by a tode ti ([[@desantis2021|De Santis 2021]], 215). [[Hering|Hering]] would call 1 [[empirical essence|empirical essence]] ([[@desantis2021|@desantis2021]], 215).
 - 2 is “spezifische Wesen”. 2 is limited to the  “predicables” that an [[object (Husserl)|object (Husserl)]] can have in common with any other individuals of the relevant kind. 2 is the stock or set of predicables ([[@desantis2021|@desantis2021]], 215).
