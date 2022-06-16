@@ -6,17 +6,19 @@
 ## Thesaurus
 - Authors
 	- [[life-world (Husserl)|life-world (Husserl)]]
-	- [[life-world_Schutz|life-world (Schutz)]]
-	- [[life-world_Patocka|life-world (Patočka)]]
+	- [[life-world (Schütz)|life-world (Schutz)]]
+	- [[life-world (Patočka)|life-world (Patočka)]]
 - Topics
 	- [[ontological reduction|ontological reduction]]
-	- [[life-world & science|life-world & science]]
 	- [[relation between world-concepts (Husserl)|relation between world-concepts (Husserl)]]
 	- [[paradox of life-world|paradox of life-world]]
 	- [[топики жизненных миров_Агирре|топики жизненных миров_Агирре]]
 	- [[ontology of the life-world|ontology of the life-world]]
 	- [[Толстой про первичность жизненного мира|Толстой про первичность жизненного мира]]
 	- [[system of sciences & ontology of the life-world|system of sciences & ontology of the life-world]]
+&
+	- [[philosophy & life-world|0 & philosophy]]
+	- [[life-world & science|0 & science]]
 
 
 ## Literature
