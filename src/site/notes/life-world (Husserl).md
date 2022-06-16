@@ -3,7 +3,6 @@
 ---
 
 # life-world (Husserl)
-- life-world (eng) – жизненный мир (рус) – Lebenswelt (de).
 - 0 = [[world (Husserl)|world]] = [[experienced world|experienced world]].
 	- See [[relation between world-concepts (Husserl)|relation between world-concepts (Husserl)]].
 - 0 is a sense-tone of [[Husserl|Husserl’s]] concept of the [[world (Husserl)|world]], which puts it into the context of correlation with [[modern science|modern science]].
