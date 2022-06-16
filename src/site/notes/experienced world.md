@@ -4,8 +4,7 @@
 
 # experienced world
 - experienced world / experiential world / world of experience (eng) – проживаемый мир / мир опыта (рус) – Erfahrungswelt / Welt der Erfahrung (de).
-- In some secondary literature 0 is identified with [[perceptual world|perceptual world]].
-	- ==добавить==
+
 - 0
 	- 0 is what allows  for the intertwining of all [[horizon (Husserl)|horizons]] ([[@geniusas2012|@geniusas2012]], 197). It is, according to [[Gadamer|Gadamer]]’s (modified by [[Geniusas|Geniusas]]) understanding, “what underlies the [[merging of horizons|merging]] of all horizons, supposedly existing by themselves” ([[@geniusas2012|@geniusas2012]], 197).
 	- Is the world of [[world-experience|world-experience]] one object among others ([[@geniusas2012|@geniusas2012]], 195)? Within world-experience world is not established, as it was in the domain of [[world-consciousness|world-consciousness]], in opposition to the [[inner horizon|inner-]] and [[outer horizon|outer horizons]] that pertain to [[object (Husserl)|concrete objectivities]]; rather its establishment is directly founded upon the [[horizon (Husserl)|horizons]] of concrete objectivities.
