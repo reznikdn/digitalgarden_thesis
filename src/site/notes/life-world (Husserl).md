@@ -17,14 +17,8 @@
 - [[life-world a priori|life-world a priori]]
 
 
-
-
-
-
-
 ## Literature
 - See the relevant literature in [[world (Husserl)|world (Husserl)]]; [[life-world & science|life-world & science]].
-
 
 
 ## See also
