@@ -3,9 +3,8 @@
 ---
 
 # primal fact
-- 0
-	- 0 является пределом [[modalization|модализации]] опыта ([[@chernavin2011|@chernavin2011]], 83).
-- 0 have an a-posteriori and [[apodictic evidence|apodictic]] character ([[@breuer2020|@breuer2020]], 222). 0 are absolutely self-given and thus the condition for the possibility of the existence of every other fact.
+- 0 является пределом [[modalization|модализации]] опыта ([[@chernavin2011|Chernavin 2011]], 83).
+- 0 have an a-posteriori and [[apodictic evidence|apodictic]] character ([[@breuer2020|Breuer 2020]], 222). 0 are absolutely self-given and thus the condition for the possibility of the existence of every other fact.
 - Originary experience of these primal facts is not modalizable ([[@breuer2020|@breuer2020]], 222). There is an ‘impossibility of modalization’ (Unmodalisierbarkeit) resulting from their absoluteness and apodicticity is to be regarded as the criterion that distinguishes these primal facts from facts in the common sense.
 - 0 are [[ego (Husserl)|I]], [[world (Husserl)|world]], bodily existence, [[intersubjectivity (Husserl)|intersubjectivity]], [[history (Husserl)|historicity]], space, [[time (Husserl)|time]] ([[@breuer2020|@breuer2020]], 222).
 
