@@ -3,6 +3,7 @@
 ---
 
 # ontology of the life-world
+- 0 is one of the three main [[phenomenological perspectives (Husserl)|phenomenological perspectives]] in the works of the late [[Husserl|Husserl]] (see [[@chernavin2011|Chernavin 2011]]). 
 - As a universal science 0 seeks to reveal the “universal structure of the [[world (Husserl)|world]]” inherent in the pre-theoretically experienced world as such, and to express it predicatively in theoretical truths ([[@sowa2010|Sowa 2010]], 52).
 - The key question of 0 is: “what can be said about the world as absolutely universal in its total consideration, purely as a world of mere experience, whenever and wherever we consider experience as an experience of the world?” ([[@husserl1968|Hua IX]], 65; цит. по [[@sowa2010|Sowa 2010]], 52).
 - 0 is defined as “the science of the universal as [[pregivenness|pregivenness]] of the world, that is, of what constitutes it as the universal ground of all objectivity ([[@husserl1954|Hua VI]], 149; цит. по [[@chernavin2011|Chernavin 2011]], 69).
