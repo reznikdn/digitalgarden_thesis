@@ -3,6 +3,7 @@
 ---
 
 # phenomenological perspectives (Husserl)
+
 ==#question Как бы лучше было бы обозначить эти классификации? ==
 
 -  1
