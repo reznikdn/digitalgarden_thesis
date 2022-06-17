@@ -4,9 +4,10 @@
 
 # ways into phenomenology
 - 0 are different methods of [[reduction (Husserl)|reduction]].
+- There are three 0: [[Cartesian reduction|Cartesian]] & [[ontological reduction|ontological]] & [[psychological reduction|psychological]] ([[@kern1977|Kern 1977]]).
 - 0 are ways into the [[transcendental attitude|transcendental attitude]] ([[@bower2020|Bower 2020]], 189).
 - None of the 0 have any obvious special light to shed on the issue of [[genetic constitution|genetic constitution]] ([[@bower2020|Bower 2020]], 189).
-- There are three 0: [[Cartesian reduction|Cartesian]] & [[ontological reduction|ontological]] & [[psychological reduction|psychological]] ([[@kern1977|Kern 1977]]).
+
 
 
 ## Thesaurus
