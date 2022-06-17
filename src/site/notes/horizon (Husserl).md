@@ -66,7 +66,7 @@
 ## See also
 - [[возможная ошибка отграничения горизонта в примере с математическим миром Гуссерля|возможная ошибка отграничения горизонта в примере с математическим миром Гуссерля]]
 - [[attitude & world-horizon|attitude & world-horizon]]
-- [[scheme_Husserl|scheme_Husserl]]
+- [[scheme (Husserl)|scheme (Husserl)]]
 - [[theme (Husserl)|theme (Husserl)]]
 - [[thematization|thematization]]
 
