@@ -4,10 +4,10 @@
 
 # object (Husserl)
 - 0
-	- In [[Husserl|Husserl’s]] [[phenomenology|phenomenology]] an object is a [[correlation (Husserl)|correlate]] of any [[intuition_Husserl|empirical intuition]] ([[@husserl1950a|Hua III/1]], 13). It is “a title for many different yet interrelated formations, for example,  ‘thing,’ ‘property,’ ‘relation,’ ‘[[state of affairs|state of affairs]],’ ‘set,’ ‘order,’ and so forth” ([[@husserl1950a|Hua III/1]], 22).
+	- In [[Husserl|Husserl’s]] [[phenomenology|phenomenology]] an object is a [[correlation (Husserl)|correlate]] of any [[intuition (Husserl)|empirical intuition]] ([[@husserl1950a|Hua III/1]], 13). It is “a title for many different yet interrelated formations, for example,  ‘thing,’ ‘property,’ ‘relation,’ ‘[[state of affairs|state of affairs]],’ ‘set,’ ‘order,’ and so forth” ([[@husserl1950a|Hua III/1]], 22).
 	- Object is a [[tode ti|this-here]] plus its [[predicate|predicables]] ([[@husserl1950a|Hua III/1]], 11). Or we could say that it is a this-here fashioned in a such-and-such a way, i.e. having a specific constitution and a stock of predicates or “predicables” ([[@majolino2015|Majolino 2015]], 37).
 - 0 and individuum
-	- Object as an “individual object” is differentiated from an [[individuum|individuum]]. The first is broader than the second ([[@desantis2021|De Santis 2021]], 216). The first is a this-here plus an [[abstractum_Husserl|abstract essence]] or a [[concretum (Husserl)|concrete essence]]. An “individual color” understood as the “individualization” of the [[eidetic singularity|eidetic singularity]] “ruby red,” is not an individuum, for its [[essence (Husserl)|essence]] is of a non-independent nature (it is the [[abstractum_Husserl|abstractum]]).
+	- Object as an “individual object” is differentiated from an [[individuum|individuum]]. The first is broader than the second ([[@desantis2021|De Santis 2021]], 216). The first is a this-here plus an [[abstractum (Husserl)|abstract essence]] or a [[concretum (Husserl)|concrete essence]]. An “individual color” understood as the “individualization” of the [[eidetic singularity|eidetic singularity]] “ruby red,” is not an individuum, for its [[essence (Husserl)|essence]] is of a non-independent nature (it is the [[abstractum (Husserl)|abstractum]]).
 
 
 <style>
