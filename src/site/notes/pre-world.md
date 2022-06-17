@@ -5,7 +5,7 @@
 # pre-world
 - pre-world is a synonym to a passivity (or a realm of a pure passivity) ([[@bower2013|Bower 2013]], 67, 109).
 - 0 is “eine ichfremde hyletische Quasi-Welt” ([[@husserl2003|Hua Mat VIII]], 350).
-- 0 is a sphere of [[constitution (Husserl)|constitution]] that is free from any [[activity_Husserl|active participation]] on our part ([[@husserl1966a|Hua XI]], 161; [[@husserl1973b|Hua XV]], 384f.; [[@husserl2008|Hua XXXIX]],16f.; [[@husserl2003|Hua Mat VIII]], 70; [[@pulkkinen2013|Pulkkinen 2013]], 132)
+- 0 is a sphere of [[constitution (Husserl)|constitution]] that is free from any [[activity (Husserl)|active participation]] on our part ([[@husserl1966a|Hua XI]], 161; [[@husserl1973b|Hua XV]], 384f.; [[@husserl2008|Hua XXXIX]],16f.; [[@husserl2003|Hua Mat VIII]], 70; [[@pulkkinen2013|Pulkkinen 2013]], 132)
 - 0 is not the lack of a [[world (Husserl)|world]] or the non-existence of the world ([[@bower2013|Bower 2013]], 109).
 - 0 is “the set of experiences that one must undergo in order to motivate the experience of the [[world (Husserl)|world]] ([[@bower2013|Bower 2013]], 109).
 - 0 is a forgotten core of functioning experience, out of which the [[world-horizon|world-horizon]] emerges ([[@bower2015a|Bower 2015]], 124). 
