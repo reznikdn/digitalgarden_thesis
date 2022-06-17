@@ -1,0 +1,51 @@
+---
+{"dg-publish":true,"permalink":"/husserliana/","dgHomeLink":false,"dgPassFrontmatter":false}
+---
+
+# Husserliana
+- [[@husserl1950|Hua I]] Cartesianische Meditationen und Pariser Vorträge
+- [[@husserl1950b|Hua II]] Die Idee der Phänomenologie
+- [[@husserl1950a|Hua III/1]] Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie I
+- [[@husserl1976|Hua III/2]] Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie
+- [[@husserl1976a|Hua III/3]]   Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie I
+- [[@husserl1952|Hua IV]]  Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie II
+- [[@husserl1952a|Hua V]]   Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie III
+- [[@husserl1954|Hua VI]] Die Krisis der europäischen Wissenschaften und die transzendentale Phänomenologie 
+- [[@Hua 7|@Hua 7]]   Erste Philosophie I (1923-24)
+- [[@husserl1959|Hua VIII]]  Erste Philosophie II (1923-24)
+- [[@husserl1968|Hua IX]]   Phänomenologische Psychologie
+- [[@husserl1966|Hua X]]  Vorlesungen zur Phänomenologie des inneren Zeitbewusstseins
+- [[@husserl1966a|Hua XI]] Analysen zur passiven Synthesis
+- [[@Hua 12|@Hua 12]]  Philosophie der Arithmetik
+- [[@husserl1973|Hua XIII]]  Zur Phänomenologie der Intersubjektivität
+- [[@husserl1973a|Hua XIV]]  Zur Phänomenologie der Intersubjektivität
+- [[@husserl1973b|Hua XV]]  Zur Phänomenologie der Intersubjektivität
+- 16  Ding und Raum
+- [[@husserl1974|Hua XVII]] Formale und Transzendentale Logik
+- 18  Logische Untersuchungen. Erster Band
+- 19  Logische Untersuchungen. Zweiter Band - I. Teil
+- 19  Logische Untersuchungen. Zweiter Band - II. Teil
+- 20  Logische Untersuchungen. Ergänzungsband - Erster Teil
+- 20  Logische Untersuchungen. Ergänzungsband - Zweiter Teil
+- 21  Studien zur Arithmetik und Geometrie
+- 22  Aufsätze und Rezensionen
+- [[@husserl1980|Hua XXIII]]  Phantasie, Bildbewusstsein, Erinnerung
+- 24  Einleitung in die Logik und Erkenntnistheorie Vorlesungen 1906/07
+- 25  Aufsätze und Vorträge
+- 26  Vorlesungen über Bedeutungslehre
+- 27  Aufsätze und Vorträge
+- 28  Vorlesungen über Ethik und Wertlehre
+- 29  Die Krisis der Europäischen Wissenschaften und die tranzendentale Phänomenologie. Ergänzungsband.
+- 30  Logik und Allgemeine Wissenschaftstheorie
+- [[@husserl2000|Hua XXXI]]  Aktive Synthesen: Aus der Vorlesung Transzendentale Logik 1920/21
+- 32  Natur und Geist
+- [[@husserl2001|Hua XXXIII]] Die Bernauer Manuskripte über das Zeitbewusstsein
+- [[@husserl2002b|Hua XXXIV]]  Zur phänomenologischen Reduktion
+- 35  Einleitung in die Philosophie
+- 36  Transzendentaler Idealismus
+- [[@husserl2004|@husserl2004]]  Einleitung in die Ethik
+- 38  Wahrnehmung und Aufmerksamkeit
+- [[@husserl2008|Hua XXXIX]]  Die Lebenswelt
+- 40  Untersuchungen zur Urteilstheorie
+- [[@husserl2012b|Hua XLI]]  Zur Lehre vom Wesen und zur Methode der Eidetischen Variation
+- 42  Grenzprobleme der Phänomenologie
