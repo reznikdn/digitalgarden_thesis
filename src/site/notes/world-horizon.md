@@ -8,7 +8,7 @@
 - 0 is the name for a complex form of [[intentionality (Husserl)|intentionality]] that does not so much give us an awareness of everything all at once as it does provide us a schematic awareness of that which lies beyond what we experience at any given moment ([[@bower2013|Bower 2013]], 11).
 - The world is not a horizon of things, but a horizon of possible experience, “an infinite horizon of possible experience” ([[@husserl1959|Hua VIII]], 148; [[@overgaard2004|Overgaard 2004]], 116).
 - 0 is “the most comprehensive and indefinite [[outer horizon|outer horizon]] that encompasses every possible thing perception” ([[@kwan1990|Kwan 1990]], 369).
-- 0 is [[theme (Husserl)|non-thematic]], [[object (Husserl)|non-objective]], [[intuition_Husserl|non-intuitive]] [[intentionality (Husserl)|intentional]] structure of experience ([[@geniusas2012|Geniusas 2012]], 180-181; [[@fink1990|Fink 1990]], 149).
+- 0 is [[theme (Husserl)|non-thematic]], [[object (Husserl)|non-objective]], [[intuition (Husserl)|non-intuitive]] [[intentionality (Husserl)|intentional]] structure of experience ([[@geniusas2012|Geniusas 2012]], 180-181; [[@fink1990|Fink 1990]], 149).
 - We are constantly conscious of the world as a [[horizon (Husserl)|horizon]] ([[@husserl1954|Hua VI]], 146/143).
 - World is conscious as a horizon only as a horizon for existing objects ([[@geniusas2012|Geniusas 2012]], 182).
 - 0 is “a [[background|background]] without [[foreground|foreground]], a [[halo|halo]] without any kind of intuitive core” ([[@geniusas2012|Geniusas 2012]], 181). 
