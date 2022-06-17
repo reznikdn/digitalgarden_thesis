@@ -3,6 +3,7 @@
 ---
 
 # phenomenological metaphysics
+- 0 is one of the three main [[phenomenological perspectives (Husserl)|phenomenological perspectives]] in the works of the late [[Husserl|Husserl]] (see [[@chernavin2011|Chernavin 2011]]). 
 - Предмет исследования 0 – [[primal fact|первичные факты]].
 	- 0 is conceived as a “doctrine of the [[primal fact|primal facts]]”, “which do not permit being led back to first causes and hence cannot be speculatively fathomed” ([[@tengelyi2015|Tengelyi 2015]], 186; cit. by [[@breuer2020|Breuer 2020]], 223).
 	- 0 is enlarged to limit issues of factual life, i.e primal facts… last necessities, the primal necessities, upon which all eidetic relations are dependent (Kern 1975, 340; cit. by [[@breuer2020|Breuer 2020]], 221). These specific issues open the way to the disclosure of the apodictic facticity of the world and of the [[ego (Husserl)|Ego]]. Husserl realizes that for a bodily Ego, the possession of the [[world (Husserl)|world]] is a primal fact insofar as the experience of the world – in contrast to any experience generally – cannot be modalized. The certainty of the world is apodictically given.
