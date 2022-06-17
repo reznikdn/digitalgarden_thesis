@@ -3,6 +3,7 @@
 ---
 
 # transcendental archeology
+- 0 is one of the three main [[phenomenological perspectives (Husserl)|phenomenological perspectives]] in the works of the late [[Husserl|Husserl]] (see [[@chernavin2011|Chernavin 2011]]). 
 - 0 is the [[phenomenology|phenomenological]] approach that can be identified with the [[genetic phenomenology|genetic phenomenology]].
 - The method of 0 is the [[dismantling|dismantling analysis]] ([[@lee1993|Lee 1993]], 77).
 - The task of the 0 is to excavate the ultimate origins of [[genesis (Husserl)|transcendental genesis]], i.e. the _Archai_ ([[@lee1993|Lee 1993]], 77).
