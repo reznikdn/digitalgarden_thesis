@@ -4,16 +4,13 @@
 
 # phenomenological perspectives (Husserl)
 
-==#question Как бы лучше было бы обозначить эти классификации? ==
+- Chernavin distinguishes three 0 in the works of the late [[Husserl|Husserl]]: [[ontology of the life-world|ontology of the life-world]] & [[transcendental archeology|transcendental archeology]] & [[phenomenological metaphysics|phenomenological metaphysics]] ([[@chernavin2011|Chernavin 2011]]).
+-  There is a general distinction of the 0 that is associated with the [[ways into phenomenology|ways into phenomenology]]: [[static phenomenology|static phenomenology]] & [[genetic phenomenology|genetic phenomenology]] & [[generative phenomenology|generative phenomenology]].
 
--  1
-	- [[static phenomenology|static phenomenology]]
-	- [[genetic phenomenology|genetic phenomenology]]
-	- [[generative phenomenology|generative phenomenology]]
-- 2
-	- [[ontology of the life-world|ontology of the life-world]]
-	- [[transcendental archeology|transcendental archeology]]
-	- [[phenomenological metaphysics|phenomenological metaphysics]]
 
 ## See also
 - [[phenomenological perspectives|phenomenological perspectives]]
+
+## Literature
+- [[@chernavin2011|Chernavin G. 2011. Transzendentale Archäologie – Ontologie – Metaphysik: Methodologische Alternativen in der phänomenologischen philosophie Husserls. Nordhausen: Traugott Bautz.]]
+
