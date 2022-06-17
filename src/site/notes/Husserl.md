@@ -117,7 +117,7 @@
 See [[Husserliana|Husserliana]]
 
 
-### На английском
+### English
 - Husserl E. 1969. Formal and Transcendental Logic. Springer.
 - Husserl E. 1970. The Crisis of European Sciences and Transcendental Phenomenology: An Introduction to Phenomenological Philosophy. Northwestern University Press.
 - Husserl E. 1975. Experience and Judgment. Northwestern University Press.
