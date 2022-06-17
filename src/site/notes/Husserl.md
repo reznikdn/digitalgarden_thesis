@@ -1,0 +1,140 @@
+---
+{"dg-publish":true,"permalink":"/husserl/","dgHomeLink":false,"dgPassFrontmatter":false}
+---
+
+# Husserl
+## Thesaurus
+- Topics
+	- [[abstractum (Husserl)|abstractum (Husserl)]]
+	- [[act (Husserl)|act (Husserl)]]
+	- [[activity (Husserl)|activity (Husserl)]]
+	- [[appearance (Husserl)|appearance (Husserl)]]
+	- [[apperception (Husserl)|apperception (Husserl)]]
+	- [[a priori (Husserl)|a priori (Husserl)]]
+	- [[association (Husserl)|association (Husserl)]]
+	- [[attention (Husserl)|attention (Husserl)]]
+	- [[attitude (Husserl)|attitude (Husserl)]]
+	- [[birth & death & sleep (Husserl)|birth & death & sleep (Husserl)]]
+	- [[birth (Husserl)|birth (Husserl)]]
+	- [[body (Husserl)|body (Husserl)]]
+	- [[causality (Husserl)|causality (Husserl)]]
+	- [[community (Husserl)|community (Husserl)]]
+	- [[concretum (Husserl)|concretum (Husserl)]]
+	- [[consciousness (Husserl)|consciousness (Husserl)]]
+	- [[constitution (Husserl)|constitution (Husserl)]]
+	- [[correlation (Husserl)|correlation (Husserl)]]
+	- [[crisis (Husserl)|crisis (Husserl)]]
+	- [[culture (Husserl)|culture (Husserl)]]
+	- [[death (Husserl)|death (Husserl)]]
+	- [[ego (Husserl)|ego (Husserl)]]
+	- [[eidos (Husserl)|eidos (Husserl)]]
+	- [[empathy (Husserl)|empathy (Husserl)]]
+	- [[entity (Husserl)|entity (Husserl)]]
+	- [[environment (Husserl)|environment (Husserl)]]
+	- [[essence (Husserl)|essence (Husserl)]]
+	- [[ethics (Husserl)|ethics (Husserl)]]
+	- [[event (Husserl)|event (Husserl)]]
+	- [[evidence (Husserl)|evidence (Husserl)]]
+	- [[experience (Husserl)|experience (Husserl)]]
+	- [[flowing (Husserl)|flowing (Husserl)]]
+	- [[formalization (Husserl)|formalization (Husserl)]]
+	- [[formal-ontological categories (Husserl)|formal-ontological categories (Husserl)]]
+	- [[generalization (Husserl)|generalization (Husserl)]]
+	- [[genesis (Husserl)|genesis (Husserl)]]
+	- [[givenness (Husserl)|givenness (Husserl)]]
+	- [[habituality (Husserl)|habituality (Husserl)]]
+	- [[historical a priori (Husserl)|historical a priori (Husserl)]]
+	- [[historicity (Husserl)|historicity (Husserl)]]
+	- [[history (Husserl)|history (Husserl)]]
+	- [[horizon (Husserl)|horizon (Husserl)]]
+	- [[Husserl|Husserl]]
+	- [[Husserliana|Husserliana]]
+	- [[hyle (Husserl)|hyle (Husserl)]]
+	- [[immanent unity (Husserl)|immanent unity (Husserl)]]
+	- [[individual & community (Husserl)|individual & community (Husserl)]]
+	- [[instinct (Husserl)|instinct (Husserl)]]
+	- [[institution (Husserl)|institution (Husserl)]]
+	- [[intentionality (Husserl)|intentionality (Husserl)]]
+	- [[interest (Husserl)|interest (Husserl)]]
+	- [[intersubjectivity (Husserl)|intersubjectivity (Husserl)]]
+	- [[intuition (Husserl)|intuition (Husserl)]]
+	- [[kinaesthesis (Husserl)|kinaesthesis (Husserl)]]
+	- [[language (Husserl)|language (Husserl)]]
+	- [[life (Husserl)|life (Husserl)]]
+	- [[life-world (Husserl)|life-world (Husserl)]]
+	- [[memory (Husserl)|memory (Husserl)]]
+	- [[mereology (Husserl)|mereology (Husserl)]]
+	- [[metaphysics (Husserl)|metaphysics (Husserl)]]
+	- [[monadology (Husserl)|monadology (Husserl)]]
+	- [[mood (Husserl)|mood (Husserl)]]
+	- [[moral (Husserl)|moral (Husserl)]]
+	- [[motivation (Husserl)|motivation (Husserl)]]
+	- [[nature (Husserl)|nature (Husserl)]]
+	- [[nature & spirit (Husserl)|nature & spirit (Husserl)]]
+	- [[now (Husserl)|now (Husserl)]]
+	- [[object (Husserl)|object (Husserl)]]
+	- [[originality (Husserl)|originality (Husserl)]]
+	- [[passivity & activity (Husserl)|passivity & activity (Husserl)]]
+	- [[passivity (Husserl)|passivity (Husserl)]]
+	- [[perception (Husserl)|perception (Husserl)]]
+	- [[person (Husserl)|person (Husserl)]]
+	- [[phantasy (Husserl)|phantasy (Husserl)]]
+	- [[phenomenological perspectives (Husserl)|phenomenological perspectives (Husserl)]]
+	- [[phenomenological psychology (Husserl)|phenomenological psychology (Husserl)]]
+	- [[political (Husserl)|political (Husserl)]]
+	- [[political idealism (Husserl)|political idealism (Husserl)]]
+	- [[pure logic (Husserl)|pure logic (Husserl)]]
+	- [[reason (Husserl)|reason (Husserl)]]
+	- [[reduction (Husserl)|reduction (Husserl)]]
+	- [[relation between world-concepts (Husserl)|relation between world-concepts (Husserl)]]
+	- [[renewal (Husserl)|renewal (Husserl)]]
+	- [[scheme (Husserl)|scheme (Husserl)]]
+	- [[sedimentation (Husserl)|sedimentation (Husserl)]]
+	- [[sense & meaning & significance (Husserl)|sense & meaning & significance (Husserl)]]
+	- [[sensibility (Husserl)|sensibility (Husserl)]]
+	- [[situation (Husserl)|situation (Husserl)]]
+	- [[socialization (Husserl)|socialization (Husserl)]]
+	- [[social ontology (Husserl)|social ontology (Husserl)]]
+	- [[spirit (Husserl)|spirit (Husserl)]]
+	- [[state (Husserl)|state (Husserl)]]
+	- [[synthesis (Husserl)|synthesis (Husserl)]]
+	- [[system of sciences (Husserl)|system of sciences (Husserl)]]
+	- [[teleology (Husserl)|teleology (Husserl)]]
+	- [[theme (Husserl)|theme (Husserl)]]
+	- [[the other (Husserl)|the other (Husserl)]]
+	- [[thing (Husserl)|thing (Husserl)]]
+	- [[time (Husserl)|time (Husserl)]]
+	- [[transcendental aesthetic (Husserl)|transcendental aesthetic (Husserl)]]
+	- [[transcendental (Husserl)|transcendental (Husserl)]]
+	- [[transcendental logic (Husserl)|transcendental logic (Husserl)]]
+	- [[type (Husserl)|type (Husserl)]]
+	- [[value (Husserl)|value (Husserl)]]
+	- [[world (Husserl)|world (Husserl)]]
+- &
+	- [[Husserl & Kant|0 & Kant]]
+	- [[Husserl & Luhmann|Husserl & Luhmann]]
+
+
+## Literature
+See [[Husserliana|Husserliana]]
+
+
+### На английском
+- Husserl E. 1969. Formal and Transcendental Logic. Springer.
+- Husserl E. 1970. The Crisis of European Sciences and Transcendental Phenomenology: An Introduction to Phenomenological Philosophy. Northwestern University Press.
+- Husserl E. 1975. Experience and Judgment. Northwestern University Press.
+- Husserl E. 1977. Phenomenological Psychology: Lectures, Summer Semester, 1925. The Hague: Nijhoff.
+- Husserl E. 1980. Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy: Third Book: Phenomenology and the Foundations of the Sciences. Springer.
+- Husserl E. 1989. Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy: Second Book: Studies in the Phenomenology of Constitution. Springer.
+- Husserl E. 1997. Psychological and Transcendental Phenomenology and the Confrontation with Heidegger (1927–1931). Dordrecht: Springer Netherlands.
+- Husserl E. 2006a. Phantasy, Image Consciousness, and Memory (1898-1925). Springer.
+- Husserl E. 2006b. The Basic Problems of Phenomenology: From the Lectures, Winter Semester, 1910-1911. Springer.
+- Husserl E. 2008. Introduction to Logic and Theory of Knowledge: Lectures 1906/07. Springer.
+- Husserl E. 2012a. Analyses Concerning Passive and Active Synthesis: Lectures on Transcendental Logic. Springer.
+- Husserl E. 2012b. Ideas: General Introduction to Pure Phenomenology. Routledge.
+- Husserl E. 2012c. On the Phenomenology of the Consciousness of Internal Time (1893–1917). Springer.
+- Husserl E. 2013a. Cartesian Meditations: An Introduction to Phenomenology. Springer.
+- Husserl E. 2013b. The Idea of Phenomenology. Springer.
+- Husserl E. 2019a. First Philosophy: Lectures 1923/24 and Related Texts from the Manuscripts (1920-1925). Springer.
+- Husserl E. 2019b. Logic and General Theory of Science. Cham: Springer International Publishing.
+
