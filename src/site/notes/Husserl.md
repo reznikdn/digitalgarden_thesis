@@ -47,8 +47,6 @@
 	- [[historicity (Husserl)|historicity (Husserl)]]
 	- [[history (Husserl)|history (Husserl)]]
 	- [[horizon (Husserl)|horizon (Husserl)]]
-	- [[Husserl|Husserl]]
-	- [[Husserliana|Husserliana]]
 	- [[hyle (Husserl)|hyle (Husserl)]]
 	- [[immanent unity (Husserl)|immanent unity (Husserl)]]
 	- [[individual & community (Husserl)|individual & community (Husserl)]]
