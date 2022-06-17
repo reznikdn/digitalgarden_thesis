@@ -26,7 +26,7 @@
 	- [[Husserl|Husserl]]
 - Kinds
 	- [[eidos (Husserl)|pure essence]] (/eidos) & [[empirical essence|empirical essence]] (/universal)
-	- [[individuum|individuum]] & [[abstractum_Husserl|abstractum]] & [[concretum (Husserl)|concretum]]
+	- [[individuum|individuum]] & [[abstractum (Husserl)|abstractum]] & [[concretum (Husserl)|concretum]]
 	- [[type (Husserl)|type (Husserl)]]
 - Topics
 	- [[eidetic reduction|eidetic reduction]] (/eidetic variation /eidetic intuition /free variation /categorical intuition)
