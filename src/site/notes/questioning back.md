@@ -4,7 +4,7 @@
 
 # questioning back
 - 0
-	- 0 - это [[regressive inquiry|регрессивное]] [[genetic phenomenology|генетическое]] или [[generative phenomenology|генеративное]] исследование, которое сопровождает метод [[dismantling|демонтирования]] и которое направлено на конститутивные источники смысла, предшествующие процессу [[sedimentation_Husserl|седиментации]] ([[@smith2010|Smith 2010]], 117). Оно направлено на раскрытие [[primal institution|протоучреждения]] смысла; или же, иными словами, на обнаружение первичных генетических источников его образования.
+	- 0 - это [[regressive inquiry|регрессивное]] [[genetic phenomenology|генетическое]] или [[generative phenomenology|генеративное]] исследование, которое сопровождает метод [[dismantling|демонтирования]] и которое направлено на конститутивные источники смысла, предшествующие процессу [[sedimentation (Husserl)|седиментации]] ([[@smith2010|Smith 2010]], 117). Оно направлено на раскрытие [[primal institution|протоучреждения]] смысла; или же, иными словами, на обнаружение первичных генетических источников его образования.
 	- 0 к [[primal institution|протоучреждению]] представляет способ об движения в обратную сторону к элементарной фазе интенционального [[sense-formation|смыслообразования]], т.е. регрессивный анализ смысла ([[@chernavin2011|Chernavin 2011]], 107).
 	- To question back is to question after founding relations of validity, and this for [[Husserl|Husserl]] means an inquiry into [[genesis (Husserl)|genesis (Husserl)]] ([[@steinbock2012|Steinbock 2012]], xxix). 
 
