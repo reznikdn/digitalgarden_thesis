@@ -9,7 +9,6 @@
 - None of the 0 have any obvious special light to shed on the issue of [[genetic constitution|genetic constitution]] ([[@bower2020|Bower 2020]], 189).
 
 
-
 ## Thesaurus
 - Parents
 	- [[Husserl|Husserl]]
