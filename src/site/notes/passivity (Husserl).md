@@ -5,7 +5,7 @@
 # passivity (Husserl)
 - 0
 	- 0 is a dimension of experience that a [[regressive inquiry|regressive inquiry]] into [[originality (Husserl)|origins]] unearths, and which serves as a point of departure for an explicative [[genetic phenomenology|genetic]] account that traces [[motivation (Husserl)|motivations]] leading back “up” to cognitive activity ([[@steinbock2012|@steinbock2012]], xxxviii).
-	- 0 is that realm in which, through fundamental laws of [[association (Husserl)|association]], [[affectivity|affective forces]] spur an [[attention (Husserl)|egoic attentiveness]] to [[object (Husserl)|objects]], enabling [[act (Husserl)|acts]] of remembering and expectation to [[constitution (Husserl)|constitute]] objects as such ([[@steinbock2012|@steinbock2012]], xxxviii).
+	- 0 is that realm in which, through fundamental laws of [[association (Husserl)|association]], [[affection|affective forces]] spur an [[attention (Husserl)|egoic attentiveness]] to [[object (Husserl)|objects]], enabling [[act (Husserl)|acts]] of remembering and expectation to [[constitution (Husserl)|constitute]] objects as such ([[@steinbock2012|@steinbock2012]], xxxviii).
 	- Passivities are “modes of background-consciousness, modes of having something in consciousness without being directed towards it” ([[@husserl1992|Hua XXIX]], 247; cit. by [[@pulkkinen2013|Pulkkinen 2013]], 130; see also [[@husserl2000|Hua 31]], 4). Passivity is the exact opposite of [[attention (Husserl)|attentional]] focus of conscious attention: it denotes the silent and anonymous functioning of consciousness in the background of attention ([[@pulkkinen2013|@pulkkinen2013]], 130).  
 - kinds of passivity
 	- [[pre-world|pure passivity]]
