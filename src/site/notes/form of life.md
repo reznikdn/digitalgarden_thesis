@@ -33,7 +33,7 @@
 - [[@cavell1996|Cavell S. 1996. Declining Decline // The Cavell Reader. Oxford: Blackwell.]]
 - [[@conway1989|Conway G.D. 1989. Wittgenstein on Foundations. NJ: Humanities Press. ]]
 - [[@garver1994|Garver N. 1994. This Complicated Form of Life: Essays on Wittgenstein. Chicago: Open Court.]]
-- [[@gonzález-castán2015|González-Castán O.L. 2015. Husserl and Wittgenstein on Lebenswelt and Lebensform: A cross-examination // Phänomenologische Forschungen.]]
+- [[@gonzalez-castan2015|González-Castán O.L. 2015. Husserl and Wittgenstein on Lebenswelt and Lebensform: A cross-examination // Phänomenologische Forschungen.]]
 - Hanfling O. 2002. Wittgenstein and the Human Form of Life. London: Routledge. 
 - [[@harris1988|Harris R. 1988. Language, Saussure and Wittgenstein: How to Play Games with Words. London: Routledge.]]
 - Majetschak S. 2010. Forms and Patterns of Life: A Reassessment of a So-Called Basic Concept in the Late Philosophy of Wittgenstein // Wittgenstein on Form(s) of Life and the Nature of Experience. Bern: Peter Lang International Publishing.
