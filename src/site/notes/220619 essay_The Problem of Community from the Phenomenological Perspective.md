@@ -3,6 +3,7 @@
 ---
 
 # The Problem of Community from the Phenomenological Perspective
+
 ## Introduction
 The power of the phenomenological motto “to the things themselves” lies in the fact that every phenomenon under study must show itself to us in its [[self-givenness|self-givennes]]. Every phenomenological investigation should begin with an obvious contemplation of our subject matter. [[phenomenology|Phenomenology]], as a primarily descriptive science, assumes that any claimed state of affairs can be discerned and confirmed by anyone who undertakes [[phenomenological reflection|transcendental reflection]]. 
 
