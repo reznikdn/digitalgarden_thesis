@@ -10,6 +10,8 @@ How is social knowledge possible? If everything we claim is a representation of 
 
 Despite the fact that Mannheim's paradox pointed to a problem of cognition that was no longer new, the problem has not gone away and is unlikely ever to disappear. The problem of the disinterested observer is implicitly embedded in the phenomenon of cognition itself and constitutes its foundational basis. The more interesting it is for us to propose new ways of solving it. The interest of such solutions lies mainly in the fact that from these new solutions new useful methodologies may well grow. In this essay, I would like to present a solution that combines the phenomenological approach of Husserl with the late philosophy of Wittgenstein.
 
+
+
 ## Husserl’s Phenomenology of the Particular World
 1. The [[world (Husserl)|world]] is synonymous with the [[life-world (Husserl)|life-world]] and the [[experienced world|experienced world]].
 	- We can use these concepts interchangeably. It is assumed that the difference between them is the difference in the shading of the concept of the world itself. Life-world is used in the context of the world's opposition to the objectivism of modern sciences (e.g., [[@mensch2017|Mensch 2017]]); experienced world is often used in the sense of [[perceptual world|perceptual world]] (e.g., [[@geniusas2012|Geniusas 2012]], 195-208).
