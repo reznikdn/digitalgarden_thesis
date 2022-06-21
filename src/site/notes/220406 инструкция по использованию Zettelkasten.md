@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/220406-instrukcziya-po-ispolzovaniyu-zettelkasten/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
-# Инструкция по использованию Zettelkasten
+# Справка по использованию Zettelkasten
 
 
 ## 1. О линейно-сетевом способе ведения текста
