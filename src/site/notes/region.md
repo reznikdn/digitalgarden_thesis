@@ -59,7 +59,7 @@
 
 
 ## Связанные заметки
-- [[ontology_phenomenology|ontology_phenomenology]]
+- [[ontology (phenomenology)|ontology (phenomenology)]]
 - [[regional ontology|regional ontology]]
 - [[region of spirit|region of spirit]]
 - [[region of nature|region of nature]]
