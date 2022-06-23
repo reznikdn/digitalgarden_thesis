@@ -37,7 +37,13 @@ Versions of the essay
 
 
 18. [[psychological reduction|Phenomenological-psychological reduction]] (/psychological reduction), carried to its end, requires the implementation of a [[universal reduction|universal reduction]] ([[@husserl1954|Hua VI]], 242; [[@husserl1959|Hua VIII]], 143).
-19. [[transcendental phenomenology|Transcendental phenomenology]] is metaphysically neutral (see [[@taguchi2019a|Taguchi 2019]], 32f.).
+19. Some phenomenologists argue that the demarcation between the transcendental phenomenology and the phenomenological psychology is vague.
+20. Kern argues that the transition from psychological domain to transcendental domain is not legitamate.
+
+
+
+
+22. [[transcendental phenomenology|Transcendental phenomenology]] is metaphysically neutral (see [[@taguchi2019a|Taguchi 2019]], 32f.).
 	- 
 
 
