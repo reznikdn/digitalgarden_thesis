@@ -3,16 +3,13 @@
 ---
 
 # phenomenological psychology (Husserl)
-- 0
-	- Феноменологическая психология рассматривает интерпретацию мира в понятиях "моего" опыта этого мира с различными типами и уровням сознания, синтезирующего конституирование этого опыта ([[@welton2000|Welton 2000]], 269). Её метод сведения всякого опыта к "моему" – [[psychological reduction|феноменологически-психологическая редукция]].
-	- 0 должна быть такой же [[regional ontology|региональной онтологией]] для региона "душа", как геометрия для "природы". Так же как и геометрия 0 устраняет из рассмотрения всё сущее и обращается к сущему-как-сущность. Различие между геометрией и психологией как онтологиями заключено в методе: геометрия использует дедуктивный метод, а 0 дескриптивный.
-	- 0 отличает от по её положению к феноменологии отличает от прочих онтологий то, что она имеет дело с сознанием и переживанием. Из этого следует, что 1) 0 - часть феноменологии и 2) феноменология возникает как часть 0, имеющая дело с чистым Я как конститутивной сферой.
-	- Но в связи с этим возникает и большая проблема демаркации трансцендентальной феноменологии, 0 и эмпирической психологии (см. [[феноменология и феноменологическая психология|феноменология и феноменологическая психология]]).
-	- 0 и психология вообще, по мнению [[Husserl|Гуссерля]], как бы "утаскивает" учёного в трансцендентальную установку. Ведь если психолог хочет исследовать законы душевных переживаний, то ему необходимо воздерживаться от полагания себя как живого организма и как человека, и вообще задаться вопросом о том, как это всё конституируется. Постепенно демаркация между феноменологией и психологией становится всё менее ясной у Гуссерля. В Кризисе он вообще говорит, что чистая психология тождественна феноменологии. Из этого следует, что **переход 0 в [[transcendental phenomenology|трансцендентальную феноменологию]] эквивалентен переходу из естественных наук в философию, т.е. натурализму**, который сам Гуссерль и критиковал. Иными словами, сделать переход из исследования региона души в регион трансцендентальной субъективности - нелегитимно!? ([[@kern1977|Kern 1977]])
-- [[ontology of the life-world & phenomenological psychology|ontology of the life-world & phenomenological psychology]]
-	- Ставится общая проблема соотношения феноменологической психологии и [[ontology of the life-world|онтологии жизненного мира]].
-- naivety of phenomenological psychology
-	- 0 is a transcendental naivety ([[@theodorou2015|@theodorou2015]], 28). 0 consists in this: whereas it focuses on the [[intentionality (Husserl)|intentionally]] appearing and its [[constitution (Husserl)|constitution]], it essentially keeps silently presupposing other realities, e.g. the supposed self-subsistent reality behind the perceptually appearing objects. 
+- 0 рассматривает интерпретацию мира в понятиях "моего" опыта этого мира с различными типами и уровням сознания, синтезирующего конституирование этого опыта ([[@welton2000|Welton 2000]], 269).
+- The method of reducing of every experience to “my experience” is [[psychological reduction|phenomenological-psychological reduction]].
+- 0 is a transcendentally naive ([[@theodorou2015|Theodorou 2015]], 28).
+	- 0 consists in this: whereas it focuses on the [[intentionality (Husserl)|intentionally]] appearing and its [[constitution (Husserl)|constitution]], it essentially keeps silently presupposing other realities, e.g. the supposed self-subsistent reality behind the perceptually appearing objects. 
+
+
+
 
 
 ## Thesaurus
@@ -26,6 +23,13 @@
 - Siblings
 	- [[a priori anthropology|a priori anthropology]]
 	- [[phenomenological psychology (Schutz)|phenomenological psychology (Schutz)]]
+- Topics
+	- [[psychological reduction|psychological reduction]]
+	- [[psychological attitude|psychological attitude]]
+- &
+	- [[phenomenological psychology & constitutive phenomenology of the natural attitude|0 & constitutive phenomenology of the natural attitude]]
+	- [[transcendental phenomenology & phenomenological psychology|0 & transcendental phenomenology]]
+	- [[ontology of the life-world & phenomenological psychology|0 & ontology of the life-world]]
 - Synonyms and Translation
 	- phenomenological psychology – феноменологическая психология
 	- regional ontology of spirit – региональная онтология духа
