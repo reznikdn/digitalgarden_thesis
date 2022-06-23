@@ -92,7 +92,7 @@ The theme is in the progress. See the content [[pregivenness of the world|here]]
 	- [[world-consciousness|world-consciousness]]
 	- [[world-experience|world-experience]]
 - Topics
-	- [[annihilation of the world|annihilation of the world]]
+	- [[annihilation of the world (Husserl)|annihilation of the world]]
 	- [[the world & a world|the world & a world]]
 	- [[worldbound|worldbound]]
 	- [[worldliness|worldliness]]
