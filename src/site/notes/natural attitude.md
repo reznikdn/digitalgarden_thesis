@@ -22,6 +22,13 @@
 	- 0 немыслима, неартикулируема, непредицируема. Эта установка, слепая по отношению к самой себе, не видящая себя как установку; она сама суть шоры, закрывающие себя от себя.
 	- В отличие от предметов в мире, сам мир полагается не эксплицитно в некотором акте, но имплицитно через все акты, отсылающие к предметам в мире ([[@welton2000|Welton 2000]], 79).
 - 0 is opposed to the “objectively true” conception of the [[nature|nature]] in the [[natural sciences|natural sciences]].
+- In 0 that which is called “[[subject|subjectivity]]” is also a kind of [[object|objectivity]] ([[@taguchi2017|Taguchi 2017]], 167).
+- Yoshimi argues that in the 0 we are realists ([[@yoshimi2015|Yoshimi 2015]], 4).
+	- 
+	- [[phenomenology|Phenomenology]] provides a way of understanding that realism as an accomplishment of regulated series of appearances ([[@yoshimi2015|Yoshimi 2015]], 4). [[Zahavi|Zahavi]] refers to this as “redeeming” the [[realism|realism]] of the 0 ([[@zahavi2010b|Zahavi 2010]], 80).
+	- ==( #question Но разве мы не должны утверждать, что в естественной устанвоке всякое сущее – это, в первую очередь, не то, что “существует само по себе”, но то, “из-чего мы исходим”? Иными словами, не должны ли мы утверждать, что естественный установка – это даже не установка реалиста, потому что реализм – это уже определённая тематизация сущего?)==
+
+
 
 
 
