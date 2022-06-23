@@ -12,7 +12,7 @@
 - The purpose of 0 as a [[teleology (Husserl)|teleological]] precondition is the [[world (Husserl)|world]] itself ([[@bower2013|Bower 2013]], 109).
 	- The problem of 0 is the problem of transcendental beginnings, which is just a moment in the teleologically ordered whole of [[transcendental subjectivity|transcendental subjectivity]] ([[@husserl2003|Hua Mat VIII]], 223-224; [[@bower2013|Bower 2013]], 109; [[@luft2002|Luft 2002]], 192-193). The world has a childhood (pre-world) and grows into the mature world ([[@husserl2003|Hua Mat VIII]], 74).
 - 0 represents one’s life at some priori stage that is impossible with one’s present condition ([[@bower2015a|Bower 2015]], 121). 
-- 0 is [[primal institution|primal institution]] of the possible [[annihilation of the world|annihilation of the world]] ([[@bower2015a|Bower 2015]], 123).
+- 0 is [[primal institution|primal institution]] of the possible [[annihilation of the world (Husserl)|annihilation of the world (Husserl)]] ([[@bower2015a|Bower 2015]], 123).
 
 ## Thesaurus
 - Parents
