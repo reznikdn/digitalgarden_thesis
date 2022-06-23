@@ -53,7 +53,7 @@
 
 ## See also
 - [[universal horizon|universal horizon]]
-- [[annihilation of the world|annihilation of the world]]
+- [[annihilation of the world (Husserl)|annihilation of the world]]
 - [[paradox of act and horizon|paradox of act and horizon]]
 - [[relation between world-concepts (Husserl)|relation between world-concepts (Husserl)]]
 
