@@ -32,6 +32,14 @@
 
 
 
+
+## See also
+- [[naturalness & naivety|naturalness & naivety]]
+- [[phenomenology|phenomenology]]
+- [[psychological reduction|psychological reduction]]
+- [[self-evidece|self-evidece]]
+- [[transcendental attitude & natural attitude|transcendental attitude & natural attitude]]
+
 ## Literature
 - [[@husserl1950a|Husserl E. (Hua III/1). 1950. Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie I: Allgemeine Einführung in die reine Phänomenologie. Den Haag: Martinus Nijhoff.]]
 - [[@luft2021|Luft Sebastian. 2021. Husserl's phenomenological discovery of the natural attitude // Subjectivity and Lifeworld in Transcendental Phenomenology. Northwestern University Press.]]
@@ -43,8 +51,3 @@
 
 
 
-## See also
-- [[naturalness & naivety|naturalness & naivety]]
-- [[phenomenology|phenomenology]]
-- [[psychological reduction|psychological reduction]]
-- [[self-evidece|self-evidece]]
