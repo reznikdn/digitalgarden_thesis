@@ -11,7 +11,7 @@
 2. [[mundane eidetic science|mundane eidetic science]]
 	- [[formal ontology|formal ontology]] 
 	- [[regional ontology|regional ontologies]] — [[region|regions of being]]
-		- [[phenomenological psychology (Husserl)|regional ontology of spirit]] — [[region of spirit|region of spirit]] — [[human sciences|human sciences]] — [[personalistic attitude|personalistic attitude]]
+		- [[phenomenological psychology|regional ontology of spirit]] — [[region of spirit|region of spirit]] — [[human sciences|human sciences]] — [[personalistic attitude|personalistic attitude]]
 		- [[regional ontology of nature|regional ontology of nature]] — [[region of nature|region of nature]] — [[natural sciences|natural sciences]] — [[naturalistic attitude|naturalistic attitude]]
 3. [[empirical sciences|empirical sciences]]
 	- [[natural sciences|natural sciences]]
