@@ -78,12 +78,12 @@
 	- [[person (Husserl)|person (Husserl)]]
 	- [[phantasy (Husserl)|phantasy (Husserl)]]
 	- [[phenomenological perspectives (Husserl)|phenomenological perspectives (Husserl)]]
-	- [[phenomenological psychology (Husserl)|phenomenological psychology (Husserl)]]
+	- [[phenomenological psychology|phenomenological psychology]]
 	- [[political (Husserl)|political (Husserl)]]
 	- [[political idealism (Husserl)|political idealism (Husserl)]]
 	- [[pure logic (Husserl)|pure logic (Husserl)]]
 	- [[reason (Husserl)|reason (Husserl)]]
-	- [[reduction (Husserl)|reduction (Husserl)]]
+	- [[reduction|reduction]]
 	- [[relation between world-concepts (Husserl)|relation between world-concepts (Husserl)]]
 	- [[renewal (Husserl)|renewal (Husserl)]]
 	- [[scheme (Husserl)|scheme (Husserl)]]
@@ -120,19 +120,19 @@ See [[Husserliana|Husserliana]]
 ### English
 - Husserl E. 1969. Formal and Transcendental Logic. Springer.
 - Husserl E. 1970. The Crisis of European Sciences and Transcendental Phenomenology: An Introduction to Phenomenological Philosophy. Northwestern University Press.
-- Husserl E. 1975. Experience and Judgment. Northwestern University Press.
+- Husserl E. 1973. Experience and Judgment. Northwestern University Press.
 - Husserl E. 1977. Phenomenological Psychology: Lectures, Summer Semester, 1925. The Hague: Nijhoff.
 - Husserl E. 1980. Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy: Third Book: Phenomenology and the Foundations of the Sciences. Springer.
 - Husserl E. 1989. Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy: Second Book: Studies in the Phenomenology of Constitution. Springer.
 - Husserl E. 1997. Psychological and Transcendental Phenomenology and the Confrontation with Heidegger (1927–1931). Dordrecht: Springer Netherlands.
-- Husserl E. 2006a. Phantasy, Image Consciousness, and Memory (1898-1925). Springer.
-- Husserl E. 2006b. The Basic Problems of Phenomenology: From the Lectures, Winter Semester, 1910-1911. Springer.
+- Husserl E. 2006. Phantasy, Image Consciousness, and Memory (1898-1925). Springer.
+- Husserl E. 2006. The Basic Problems of Phenomenology: From the Lectures, Winter Semester, 1910-1911. Springer.
 - Husserl E. 2008. Introduction to Logic and Theory of Knowledge: Lectures 1906/07. Springer.
-- Husserl E. 2012a. Analyses Concerning Passive and Active Synthesis: Lectures on Transcendental Logic. Springer.
-- Husserl E. 2012b. Ideas: General Introduction to Pure Phenomenology. Routledge.
-- Husserl E. 2012c. On the Phenomenology of the Consciousness of Internal Time (1893–1917). Springer.
-- Husserl E. 2013a. Cartesian Meditations: An Introduction to Phenomenology. Springer.
-- Husserl E. 2013b. The Idea of Phenomenology. Springer.
-- Husserl E. 2019a. First Philosophy: Lectures 1923/24 and Related Texts from the Manuscripts (1920-1925). Springer.
-- Husserl E. 2019b. Logic and General Theory of Science. Cham: Springer International Publishing.
+- Husserl E. 2012. Analyses Concerning Passive and Active Synthesis: Lectures on Transcendental Logic. Springer.
+- Husserl E. 2012. Ideas: General Introduction to Pure Phenomenology. Routledge.
+- Husserl E. 2012. On the Phenomenology of the Consciousness of Internal Time (1893–1917). Springer.
+- Husserl E. 2013. Cartesian Meditations: An Introduction to Phenomenology. Springer.
+- Husserl E. 2013. The Idea of Phenomenology. Springer.
+- Husserl E. 2019. First Philosophy: Lectures 1923/24 and Related Texts from the Manuscripts (1920-1925). Springer.
+- Husserl E. 2019. Logic and General Theory of Science. Cham: Springer International Publishing.
 
