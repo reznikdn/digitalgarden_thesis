@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/ways-into-phenomenology/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
-# ways into phenomenology
-- 0 are different methods of [[reduction (Husserl)|reduction]].
+# ways into phenomenology / ways to the reduction
+- 0 are different methods of [[reduction|reduction]].
 - There are three 0: [[Cartesian reduction|Cartesian]] & [[ontological reduction|ontological]] & [[psychological reduction|psychological]] ([[@kern1977|Kern 1977]]).
 - 0 are ways into the [[transcendental attitude|transcendental attitude]] ([[@bower2020|Bower 2020]], 189).
 - None of the 0 have any obvious special light to shed on the issue of [[genetic constitution|genetic constitution]] ([[@bower2020|Bower 2020]], 189).
@@ -15,7 +15,7 @@
 	- [[phenomenology|phenomenology]]
 - Siblings
 	- [[phenomenological perspectives|phenomenological perspectives]]
-	- [[reduction (Husserl)|reduction (Husserl)]]
+	- [[reduction|reduction (Husserl)]]
 - Kinds
 	- [[Cartesian reduction|Cartesian reduction]]
 	- [[ontological reduction|ontological reduction]]
