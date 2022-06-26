@@ -11,7 +11,7 @@
 	- [[Husserl|Husserl]]
 	- [[life-world (Husserl)|life-world (Husserl)]]
 	- [[phenomenology|phenomenology]]
-	- [[reduction (Husserl)|reduction (Husserl)]]
+	- [[reduction|reduction (Husserl)]]
 	- [[ways into phenomenology|ways into phenomenology]]
 - &
 	- [[psychological reduction & ontological reduction|0 & psychological reduction]]
