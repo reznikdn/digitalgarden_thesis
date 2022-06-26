@@ -11,7 +11,7 @@
 - [[@husserl1952|Hua IV]]  Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie II
 - [[@husserl1952a|Hua V]]   Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie III
 - [[@husserl1954|Hua VI]] Die Krisis der europäischen Wissenschaften und die transzendentale Phänomenologie 
-- [[@Hua 7|@Hua 7]]   Erste Philosophie I (1923-24)
+- [[@Hua 7|@Hua 7]] Erste Philosophie I (1923-24)
 - [[@husserl1959|Hua VIII]]  Erste Philosophie II (1923-24)
 - [[@husserl1968|Hua IX]]   Phänomenologische Psychologie
 - [[@husserl1966|Hua X]]  Vorlesungen zur Phänomenologie des inneren Zeitbewusstseins
@@ -43,7 +43,7 @@
 - [[@husserl2002b|Hua XXXIV]]  Zur phänomenologischen Reduktion
 - 35  Einleitung in die Philosophie
 - 36  Transzendentaler Idealismus
-- [[@husserl2004|@husserl2004]]  Einleitung in die Ethik
+- [[@husserl2004|Hua XXXVII]]  Einleitung in die Ethik
 - 38  Wahrnehmung und Aufmerksamkeit
 - [[@husserl2008|Hua XXXIX]]  Die Lebenswelt
 - 40  Untersuchungen zur Urteilstheorie
