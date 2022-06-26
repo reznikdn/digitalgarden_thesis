@@ -5,7 +5,7 @@
 # regional ontology
 - kinds of regional ontology
 	- [[regional ontology of nature|regional ontology of nature]]
-	- [[phenomenological psychology (Husserl)|regional ontology of spirit]]
+	- [[phenomenological psychology|regional ontology of spirit]]
 - 0
 	- 0 is philosophical discipline within which the categories of specific [[region|region]] are developed ([[@landgrebe1981|@landgrebe1981]], 151).
 	- 0 is lying at the basis of every experiential science of a particular sphere ([[@landgrebe1981|@landgrebe1981]], 152).
