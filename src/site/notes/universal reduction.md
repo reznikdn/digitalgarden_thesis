@@ -3,13 +3,13 @@
 ---
 
 # universal reduction
-- универсальная редукция
-	- 0 – одна из [[reduction (Husserl)|редукций]] у [[Husserl|Гуссерля]].
-	- Универсальная редукция должна редуцировать все установки по отношению к психическому; на контрасте к предварительной редукции, которую мы можем найти, например, в профессиональной деятельности психологов, изолирующих психические события, абстрагируя их от физического мира.
-	- Результат универсальной редукции – "выключается" научная позитивности с её предполагаемой приверженностью реальности. Психология трансформируется в "науку о трансцендентальной субъективности" ([[@husserl1954|Hua VI]], 261).
-	- Преодолеть парадокс [[double reduction|двойной редукции]] возможно через совершение универсальной редукции. В отличие от редукции [[@husserl1950a|@husserl1950a]] в [[@husserl1959|Первой философии 2]] универсальная редукция не приостанавливают тезис мира, но  подавляет все мирские интересы (Генюшас здесь ссылается на параграфы 41-43 в [[@husserl1959|Хуа 8]]. Сама ссылка внутри текста ещё на стр. 143. Позже Генюшас говорит о том, что 49 параграф directly follows the analysis of the universal reduction.). Это необходимо, чтобы подавить те хабитаульные значимости, которые оставляет двойная редукция. При этом такое подавление хабитуальных значимостей в универсальной редукции не означает их редуцирование до просто феноменов. Скорее, это означает сохранение их как значимостей смысла, которые манифестируют себя не как явленности, но как значимости, которые окружают явленности. (Это же означает и осознать эти значимости как имеющие своим источником само сознание).
-	- Универсальная редукция не подавляет горизонтную рамку сознания, как это делает редукция [[@husserl1950a|Идей 1]]. И именно в универсальной редукции горизонты раскрывают себя как горизонты субъективности.
-	- Проведение [[universal reduction|универсальной редукции]] требует дополнить смысл [[horizon of validity|горизонта значимости]]. Это редукция требует утверждать следующее: горизонт – это горизонт имплицитной значимости, охватывающий явленности как "трансценденции в имманентности"; горизонт – это неотделимое измерение смысла, которое принадлежит явленностям; даже несмотря на то, что горизонт не есть явленность, он есть ни что иное как импликация всей жизни сознания во всяком переживании ([[@geniusas2012|Geniusas 2012]], 133).
+- 0 “put out of effect the totality of” psychologist’s “participation in the validities explicitly or implicitly effected be the the persons who are his [[subject|subjects]]; and this means all persons” ([[@husserl1970|Husserl 1970]], 239).
+- 0 of the [[phenomenological psychology|phenomenological psychology]] is parallel to the 0 of [[natural sciences|natural sciences]] ([[@husserl1970|Husserl 1970]], 239)
+	- “…just as the latter is from the start a science through a universal "epoché," through a habitual vocational attitude established in advance in order to investigate abstractively only the corporeal in its own essential interrelations, so also for [[psychology|psychology]]” ([[@husserl1970|Husserl 1970]], 239).
+- 0 of phenomenological psychology is identified with the [[abstractive attitude|“abstractive” attitude]] ([[@husserl1970|Husserl 1970]], 239).
+- Through the 0 we gain “the essentially unitary, absolutely self-eclosed ‘internal’ world of the conscious subjects” ([[@husserl1970|Husserl 1970]], 240).
+- After the 0, object become objects that is experienced “in” the studied ego-subjects ([[@husserl1970|Husserl 1970]], 242).
+	- “In other words, only he who lives within the universal epoché and through it has before him the universal horizon of the pure ‘internal life’ “ ([[@husserl1970|Husserl 1970]], 243). 
 
 
 ## Literature
@@ -19,5 +19,4 @@
 - [[@husserl1959|Husserl E. (Hua VIII). 1959. Erste Philosophie II (1923-24): Theorie der phänomenologischen Reduktion. Den Haag: Martinus Nijhoff.]]
 - [[@moran2012|Moran D. 2012. Husserl's crisis of the European sciences and transcendental phenomenology: An introduction.]]
 
-## See also
-- [[psychological reduction|psychological reduction]]
+
