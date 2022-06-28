@@ -3,8 +3,10 @@
 ---
 
 # universal reduction
+- The result of the 0 is my pure soul life ([[@husserl1968|Hua IX]], 471).
+- The result of the 0 is transcendental subjectivity ([[@husserl1968|Hua IX]], 471).
 - 0 “put out of effect the totality of” psychologist’s “participation in the validities explicitly or implicitly effected be the the persons who are his [[subject|subjects]]; and this means all persons” ([[@husserl1970|Husserl 1970]], 239).
-- 0 of the [[phenomenological psychology|phenomenological psychology]] is parallel to the 0 of [[natural sciences|natural sciences]] ([[@husserl1970|Husserl 1970]], 239)
+- 0 of the [[phenomenological psychology|phenomenological psychology]] is parallel to the 0 of [[natural sciences|natural sciences]] ([[@husserl1970|Husserl 1970]], 239).
 	- “…just as the latter is from the start a science through a universal "epoché," through a habitual vocational attitude established in advance in order to investigate abstractively only the corporeal in its own essential interrelations, so also for [[psychology|psychology]]” ([[@husserl1970|Husserl 1970]], 239).
 - 0 of phenomenological psychology is identified with the [[abstractive attitude|“abstractive” attitude]] ([[@husserl1970|Husserl 1970]], 239).
 - Through the 0 we gain “the essentially unitary, absolutely self-eclosed ‘internal’ world of the conscious subjects” ([[@husserl1970|Husserl 1970]], 240).
