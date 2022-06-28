@@ -3,11 +3,13 @@
 ---
 
 # transcendental phenomenology & phenomenological psychology
-- Phenomenological psychology as [[empirical sciences|positive science]] does not exist ([[@husserl1970|Husserl 1970]], 257).
-	- “There is only a transcendental psychology, which is identical with [[transcendental philosophy|transcendental philosophy]]” ([[@husserl1970|Husserl 1970]], 257).
-	- “Thus pure psychology is identical with transcendental philosophy as the science of [[transcendental subjectivity|transcendental subjectivity]]” ([[@husserl1970|Husserl 1970]], 258).
+- Phenomenological psychology as [[empirical sciences|positive science]] does not exist ([[@husserl1954|Hua VI]], 261 / [[@husserl1970|Husserl 1970]], 257).
+	- “There is only a transcendental psychology, which is identical with [[transcendental philosophy|transcendental philosophy]]” ([[@husserl1954|Hua VI]], 261 / [[@husserl1970|Husserl 1970]], 257).
+	- “Thus pure psychology is identical with transcendental philosophy as the science of [[transcendental subjectivity|transcendental subjectivity]]” ([[@husserl1954|Hua VI]], 261 / [[@husserl1970|Husserl 1970]], 257).
 	- “…descriptive psychology… has not yet arrived at its pure and sefl-enclosed field of work; it has not yet arrived as a “pure [[soul|soul]]” or the self-enclosed universe of pure souls in its own essential and thoroughly intentional exclusiveness” ([[@husserl1970|Husserl 1970]], 239). And for this, claims [[Husserl|Husserl]], one needs the universal reduction ([[@husserl1970|Husserl 1970]], 239).
 	- “even if the psychological theory of knowledge is grounded, and that in full universality, it still requires the [[Copernican revolution|Copernican revolution]] in order to give this entire [[phenomenology|phenomenology]] and theory of reason [[transcendental|transcendental]] meaning” (Hua 9, 327-328).
+- psychologist must execute universal reduction ([[@husserl1968|Hua IX]], 471).
+	- “Anderseits – gerade als Psychologe – muß ich die Welt außer geltung setzen, wo immer ich mich als reine Seele und im voraus den Gesamtgehalt meiner seelischen Vorkommnisse in ihrer Reinheit für eine rein psychologische Forschung bereithalten will” ([[@husserl1968|Hua IX]], 471).
 - 0 are parallel to each other ([[@husserl1950|Hua I]], 70; [[@yoshimi2021|Yoshimi 2021]], 446).
 	- Any claim of [[phenomenological psychology|phenomenological psychology]] can be transformed into a claim of [[transcendental phenomenology|transcendental phenomenology]], and vice versa ([[@yoshimi2021|Yoshimi 2021]], 446).
 	- Phenomenological psychology is “precise parallel to transcendental phenomenology of consciousness” ([[@husserl1950|Hua I]], 70/32). Transcendental phenomenology “has this characteristic, that every one of its propositions admits of being transformed into an a priori psychological proposition in the natural sense” ([[@husserl1968|Hua IX]], 45).  “Every pure psychological insight … can be utilized transcendentally so long as it receives its pure sense through the genuine [[transcendental reduction|transcendental reduction]]” ([[@husserl1997|Husserl 1997]], 113).
@@ -18,11 +20,15 @@
 - Phenomenological psychology is the “kinder, gentler, cousin to transcendental phenomenology” ([[@yoshimi2021|Yoshimi 2021]], 446).
 	- 0 is “more down to earth” ([[@yoshimi2021|Yoshimi 2021]], 446).
 
+
+
 ## Transcendental reduction & psychological reduction
 - [[Husserl|Husserl]] wavers on the point of 0 ([[@welton2000|Welton 2000]], 267).
 	- A pure phenomenological psychologist must “set the world out of play” (Hua 9, 471) in order to gain the pure field of [[consciousness|consciousness]]; but on the other hand, “I, as psychologist,… have the world in play and want to stay with it as such” (Hua 9, 471; see also [[@welton2000|Welton 2000]], 267).
 - Husserl believed that he can distinguish 0 in terms of their “content” and in terms of the range and efficacy of [[reflection|reflection]] ([[@welton2000|Welton 2000]], 268).
 	- [[Welton|Welton]] argues that Husserl was not successful in this distinction ([[@welton2000|Welton 2000]], 268).
+- [[psychological reduction|Психологическая редукция]] как бы “утаскивает” учёного в [[transcendental attitude|трансцендентальную установку]].
+	- Ведь если психолог хочет исследовать законы душевных переживаний, то ему необходимо воздерживаться от полагания себя как живого организма и как человека, и вообще задаться вопросом о том, как это всё конституируется ([[@yudin2012|Юдин 2012]]).
 
 
 ## Thesaurus
