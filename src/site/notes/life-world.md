@@ -16,7 +16,7 @@
 	- [[ontology of the life-world|ontology of the life-world]]
 	- [[Толстой про первичность жизненного мира|Толстой про первичность жизненного мира]]
 	- [[system of sciences & ontology of the life-world|system of sciences & ontology of the life-world]]
-&
+- &
 	- [[philosophy & life-world|0 & philosophy]]
 	- [[life-world & science|0 & science]]
 
