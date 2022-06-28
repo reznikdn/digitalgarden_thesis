@@ -18,13 +18,15 @@
 - Phenomenological psychologist does not take up a position ([[@husserl1970|Husserl 1970]], 240).
 	- The psychologist establishes in himself the disinterested spectator ([[@husserl1970|Husserl 1970]], 239). 
 	- To the psychologist… with his attitude of “disinterested observer”, every intentional life as it is lived by each subject and each particular community of subjects, the performance of acts, the perceptual and other sorts of experiencing activity, the changing acts of meaning in respect to being, will, etc. – to the psychologist, all this is accessible thematically ([[@husserl1970|Husserl 1970]], 240).
-- 0 as [[empirical sciences|positive science]] does not exist ([[@husserl1970|Husserl 1970]], 257).
+- 0 as [[empirical sciences|positive science]] does not exist ([[@husserl1954|Hua VI]], 261 / [[@husserl1970|Husserl 1970]], 257).
 	- See [[transcendental phenomenology & phenomenological psychology|transcendental phenomenology & phenomenological psychology]].
 - 0 is pure in the sense of being a priori rather than empirical ([[@yoshimi2021|Yoshimi 2021]], 456).
 - 0 studies a priori conditions of the possibility of an appearing world ([[@yoshimi2021|Yoshimi 2021]], 446).
-
-
-
+- 0 должна быть такой же [[regional ontology|региональной онтологией]] для [[region of spirit|региона "душа"]], как геометрия для [[region of nature|региона "природы"]].
+	- Так же как и геометрия 0 устраняет из рассмотрения всё сущее и обращается к сущему-как-сущность. Различие между геометрией и психологией как онтологиями заключено в методе: геометрия использует дедуктивный метод, а 0 дескриптивный ([[@yudin2012|Юдин 2012]]).
+- Psychologist do not practice the universal reduction, he has a world he wants to stay in ([[@husserl1968|Hua IX]], 471).
+	- In the psychological attitude, the thought of treeing myself from the world and practicing the transcendental reduction is far from my mind ([[@husserl1968|Hua IX]], 471).
+	- It is no sufficient for 0 to practice individual reductions on the psychic data ([[@husserl1968|Hua IX]], 473).
 
 
 ## Phenomenological psychology (Schütz)
@@ -47,6 +49,7 @@
 	- [[transcendental phenomenology & phenomenological psychology|0 & transcendental phenomenology]]
 	- [[ontology of the life-world & phenomenological psychology|0 & ontology of the life-world]]
 	- [[phenomenological psychology & social psychology|0 & social psychology]]
+	- [[phenomenological psychology & transcendental aesthetic|0 & transcendental aesthetic]]
 - Synonyms and Translation
 	- phenomenological psychology – Phänomenologische Psychologie – феноменологическая психология
 	- psychological phenomenology – … – психологическая феноменология (e.g., [[@welton2000|Welton 2000]], 267)
