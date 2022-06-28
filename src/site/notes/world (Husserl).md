@@ -26,9 +26,6 @@
 - There are [[home-world|home-worlds]] & [[alien-world|alien-worlds]].
 
 
-## Pregivenness of the world
-The theme is in the progress. See the content [[pregivenness of the world|here]].
-
 
 ## Views on the world
 - 0 in [[@lee2019|Lee 2019]]
@@ -96,6 +93,7 @@ The theme is in the progress. See the content [[pregivenness of the world|here]]
 	- [[the world & a world|the world & a world]]
 	- [[worldbound|worldbound]]
 	- [[worldliness|worldliness]]
+
 
 ## See also
 - [[horizon (Husserl)|horizon (Husserl)]]
