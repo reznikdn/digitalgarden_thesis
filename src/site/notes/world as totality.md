@@ -11,6 +11,9 @@
 - [[Husserl|Husserl]] in his latter works says that there is an [[essence (Husserl)|essential]] difference between the being of the world and the being of objects: “There exists a fundamental difference between the way we are conscious of the world ([[world-consciousness|world-consciousness]]) and the way we are conscious of thing or objects ([[object-consciousness|object-consciousness]])” ([[@husserl1954|Hua VI]], 146). These indications intimate a [[phenomenology|phenomenological]] notion of the world as [[world-horizon|world-horizon]].
 
 
+## See also
+- [[world as horizon & world as totality|world as horizon & world as totality]]
+
 ## Literature
 - [[@geniusas2012|Geniusas S. 2012. The Origins of the Horizon in Husserl’s Phenomenology. Dordrecht: Springer.]]
 - [[@husserl1950a|Husserl E. (Hua III/1). 1950. Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie I: Allgemeine Einführung in die reine Phänomenologie. Den Haag: Martinus Nijhoff.]]
@@ -18,3 +21,4 @@
 - [[@overgaard2004|Overgaard S. 2004. Husserl and Heidegger on Being in the World. Springer.]]
 - [[@husserl1954|Husserl E. (Hua VI). 1954. Die Krisis der europäischen Wissenschaften und die transzendentale Phänomenologie. Den Haag: Martinus Nijhoff.]]
 - [[@lee2019|Lee N.-I. 2019. The Pluralistic Concept of the Life-World and the Various Fields of the Phenomenology of the Life-World // Husserl Husserl Studies 36 (1).]]
+
