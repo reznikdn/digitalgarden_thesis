@@ -10,6 +10,8 @@
 - 0 is “the most comprehensive and indefinite [[outer horizon|outer horizon]] that encompasses every possible thing perception” ([[@kwan1990|Kwan 1990]], 369).
 - 0 is [[theme (Husserl)|non-thematic]], [[object (Husserl)|non-objective]], [[intuition (Husserl)|non-intuitive]] [[intentionality (Husserl)|intentional]] structure of experience ([[@geniusas2012|Geniusas 2012]], 180-181; [[@fink1990|Fink 1990]], 149).
 - We are constantly conscious of the world as a [[horizon (Husserl)|horizon]] ([[@husserl1954|Hua VI]], 146/143).
+- 0 is the most comprehensive and indefinite external horizon ([[@kwan1990|Kwan 1990]], 369).
+- Only through 0 all mundane objects receive their final concretization and structural orientation ([[@kwan1990|Kwan 1990]], 369).
 - World is conscious as a horizon only as a horizon for existing objects ([[@geniusas2012|Geniusas 2012]], 182).
 - 0 is “a [[background|background]] without [[foreground|foreground]], a [[halo|halo]] without any kind of intuitive core” ([[@geniusas2012|Geniusas 2012]], 181). 
 	- 0 cannot be be accounted in terms of the [[background-foreground schema|background-foreground schema]]; it should be accepted that the [[horizon (Husserl)|horizontality]] of the world is unique in that it does not have a core of direct immediate appearance ([[@geniusas2012|Geniusas 2012]], 181). 0 is a background without foreground, a halo without any kind of intuitive core.
@@ -41,11 +43,13 @@
 ## World-horizon as totality of entities
 - If we understand by world-horizon the totality of entities, this would seem to suggest that the entities are what make the world possible, or at most that world, and individual entities are interdependent ([[@husserl1954|Hua VI]], 146; [[@husserl1968|Hua IX]],  96; see also [[@overgaard2004|@overgaard2004]], 115). But the investigation of perceptual [[intentionality (Husserl)|intentionality]] shows the [[horizon (Husserl)|horizon]] is the condition of possibility of [[entity (Husserl)|entities]], and not vice versa. 
 
+
 ## Thesaurus
 - &
 	- [[world-horizon & universal horizon|world-horizon & universal horizon]]
 	- [[world-horizon & attitude|world-horizon & attitude]]
 	- [[world-horizon & objects|world-horizon & objects]]
+	- [[world as horizon & world as totality|0 & world as totality]]
 - Topics
 	- [[genesis of the world-horizon|genesis of the world-horizon]]
 	- [[как происходит выключение мирового горизонта в Идеях 1|как происходит выключение мирового горизонта в Идеях 1]]
