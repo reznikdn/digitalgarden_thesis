@@ -9,7 +9,7 @@
 
 ## Ontology of the life-world AS transcendental aesthetic
 - 0
-	- [[Gurwitsch|Gurwitsch]] claims that the [[ontology of the life-world|ontology of the life-world]] is an “[[a priori|a priori]] science of the universal structures of the [[perceptual world|perceptual world]], a science whose objective is the systematic description of the categorial [[constitution (Husserl)|constitution]] of that [[world (Husserl)|world]], the explicit articulation of the ‘notion of the natural world’ “([[@gurwitsch1970|Gurwitsch 1970]], 58; cf. [[@husserl1968|Hua IX]], 121). 
+	- [[Gurwitsch|Gurwitsch]] claims that the [[ontology of the life-world|ontology of the life-world]] is an “[[a priori|a priori]] science of the universal structures of the [[perceptual world|perceptual world]], a science whose objective is the systematic description of the categorial [[constitution|constitution]] of that [[world (Husserl)|world]], the explicit articulation of the ‘notion of the natural world’ “([[@gurwitsch1970|Gurwitsch 1970]], 58; cf. [[@husserl1968|Hua IX]], 121). 
 	- [[Steinbock|Steinbock]] argues that when [[Husserl|Husserl]] attempts to arrive at a common structure shared by all diverse cultural worlds, he receives a perceptual world, a world given in pristinely pure perceptual experience ([[@steinbock1995|Steinbock 1995]], 96; Steinbock also cite [[Gurwitsch|Gurwitsch]] in this respect: [[@gurwitsch1970|Gurwitsch 1970]]). So Steinbock claims that the perceptual world is the lifeworld a priori, distinct from the objective-logical a priori of the objective sciences.
 	- For a critique of such position see [[@staiti2018a|Staiti 2018]].
 - citations
@@ -21,7 +21,7 @@
 	- [[Husserl|Husserl]]
 	- [[ontology of the life-world|ontology of the life-world]]
 	- [[phenomenology|phenomenology]]
-	- [[transcendental aesthetic (Husserl)|transcendental aesthetic (Husserl)]]
+	- [[transcendental aesthetic|transcendental aesthetic (Husserl)]]
 
 
 ## See also
