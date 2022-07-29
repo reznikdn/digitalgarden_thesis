@@ -8,7 +8,7 @@
 - For [[Husserl|Husserl]] (as for [[Heidegger|Heidegger]]) world cannot [[phenomenology|phenomenologically]] be described as a totality of entities ([[@overgaard2004|@overgaard2004]], 127).
 
 ## Criticism of the world as the totality of objectivities
-- [[Husserl|Husserl]] in his latter works says that there is an [[essence (Husserl)|essential]] difference between the being of the world and the being of objects: “There exists a fundamental difference between the way we are conscious of the world ([[world-consciousness|world-consciousness]]) and the way we are conscious of thing or objects ([[object-consciousness|object-consciousness]])” ([[@husserl1954|Hua VI]], 146). These indications intimate a [[phenomenology|phenomenological]] notion of the world as [[world-horizon|world-horizon]].
+- [[Husserl|Husserl]] in his latter works says that there is an [[essence|essential]] difference between the being of the world and the being of objects: “There exists a fundamental difference between the way we are conscious of the world ([[world-consciousness|world-consciousness]]) and the way we are conscious of thing or objects ([[object-consciousness|object-consciousness]])” ([[@husserl1954|Hua VI]], 146). These indications intimate a [[phenomenology|phenomenological]] notion of the world as [[world-horizon|world-horizon]].
 
 
 ## See also
