@@ -6,9 +6,6 @@
 
 
 ## Thesaurus
-- Parents
-	- [[Husserl|Husserl]]
-	- [[phenomenology|phenomenology]]
 - Kinds
 	- [[methodological abstraction|abstractive reduction]]
 	- [[apodictic reduction|apodictic reduction]]
@@ -19,17 +16,16 @@
 	- [[historical reduction|historical reduction]]
 	- [[intersubjective reduction|intersubjective reduction]]
 	- [[ontological reduction|ontological reduction]]
-	- [[transcendental reduction|phenomenological reduction]]
 	- [[primordial reduction|primordial reduction]]
 	- [[psychological reduction|psychological reduction]]
 	- [[radical reduction|radical reduction]]
-	- [[transcendental reduction|transcendental reduction]]
+	- [[transcendental reduction|transcendental reduction]] (phenomenological reduction)
 	- [[universal reduction|universal reduction]]
 - Topics
 	- [[paradox of reduction|paradox of reduction]]
 	- [[motivation for phenomenological reduction|motivation for phenomenological reduction]]
 - &
-	- [[reduction & negation|reduction & negation]]
+	- [[reduction & negation|0 & negation]]
 
 
 ## See also
