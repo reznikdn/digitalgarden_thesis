@@ -11,7 +11,7 @@
 - [[@husserl1952|Hua IV]]  Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie II
 - [[@husserl1952a|Hua V]]   Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie III
 - [[@husserl1954|Hua VI]] Die Krisis der europäischen Wissenschaften und die transzendentale Phänomenologie 
-- [[@Hua 7|@Hua 7]] Erste Philosophie I (1923-24)
+- [[@husserl1956|@husserl1956]] Erste Philosophie I (1923-24)
 - [[@husserl1959|Hua VIII]]  Erste Philosophie II (1923-24)
 - [[@husserl1968|Hua IX]]   Phänomenologische Psychologie
 - [[@husserl1966|Hua X]]  Vorlesungen zur Phänomenologie des inneren Zeitbewusstseins
