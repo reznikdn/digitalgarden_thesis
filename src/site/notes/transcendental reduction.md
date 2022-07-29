@@ -5,12 +5,14 @@
 # transcendental reduction
 - I suppose that “transcendental reduction” can be equalized with “phenomenological reduction” (R.D., 220625).
 - 0 leads us to the “phenomenological maelstrom” in which there would be neither physical [[world|world]] nor mental unities, in short, no “[[reality|reality]]” ([[@taguchi2017|Taguchi 2017]], 167).
-- 0 is a way of thematization of the [[self-evidece|self-evident]].
-	- 0 не является попыткой просто низвергнуть все [[self-evidece|самопонятности]] так, чтобы после этого можно было исходить “откуда-то” ([[@carr1974|Carr 1974]], 116). В некотором смысле исходить-то как раз и неоткуда, ибо [[essence (Husserl)|сущность]] [[reduction|редукции]] и есть самообнаружение того, что ниспровергается.
+- While the 0 intends to overcome the “naivety” inherent in the [[natural attitude|natural attitude]], it is not directed against the naturalness of natural [[life|life]] itself ([[@taguchi2006|Taguchi 2006]], 13).
+	- Even if the unquestionable presuppositions established in the [[essence|essence]] of natural life are questioned, then by no means should any damage be done to the peculiar rights of this life ([[@taguchi2006|Taguchi 2006]], 13).
+- 0 is a way of thematization of the [[self-evidence|self-evident]].
+	- 0 не является попыткой просто низвергнуть все [[self-evidence|самопонятности]] так, чтобы после этого можно было исходить “откуда-то” ([[@carr1974|Carr 1974]], 116). В некотором смысле исходить-то как раз и неоткуда, ибо [[essence|сущность]] [[reduction|редукции]] и есть самообнаружение того, что ниспровергается.
 	- [[natural attitude|Естественная установка]] сама должна быть раскрыта, чтобы можно было её ниспровергнуть; или ниспровержение и есть исследование. Следовательно, есть особые отношения между естественной установкой и её приостановкой: поскольку естественная установка действительно предмет [[phenomenology|феноменологии]], она должна быть вскрыта в то же время, когда она ниспровергаемо-открывается. Результат редукции – “splitting of the self” и паттерн исследования подразумевает движение [[zig-zag|зигзагом]] между этим ниспровержением и раскрытием.
 
 ## See also
-- [[transcendental phenomenology & phenomenological psychology|transcendental reduction & psychological reduction]]
+- [[transcendental reduction & psychological reduction|0 & psychological reduction]]
 
 
 ## Literature
