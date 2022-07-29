@@ -14,7 +14,7 @@
 - There are two [[transcendental concept of the world|transcendental concepts of the world]]: [[universal horizon|world as universal horizon]] & [[world as ground|world as ground]].
 - There are sub-layers of the [[perceptual world|perceptual world]]: [[pre-world|pre-world]] & [[phantom-world|phantom-world]] & [[nature (Husserl)|nature]] ([[@husserl2003|Hua Mat VIII]], 109, 111, 350).
 - There are three layers of the [[concrete world|concrete world]]: [[perceptual world|perceptual world]] & [[cultural world|cultural world]] & [[scientific world|scientific world]] ([[@carr1974|Carr 1974]], 196; [[@carr1977a|Carr 1977]], 211).
-	- This distinction can be made from the perspective of [[genesis-foundation|genesis-foundation]] or from the perspective of [[validity-foundation|validity-foundation]], it depends on the [[phenomenological perspectives|phenomenological perspective]] we choose ([[@lee2019|Lee 2019]], 53). In the perspective of genesis-foundation, for example, we can trace the process of the [[genesis (Husserl)|genesis (Husserl)]] of the life-world in the experience of a newborn baby.
+	- This distinction can be made from the perspective of [[genesis-foundation|genesis-foundation]] or from the perspective of [[validity-foundation|validity-foundation]], it depends on the [[phenomenological perspectives|phenomenological perspective]] we choose ([[@lee2019|Lee 2019]], 53). In the perspective of genesis-foundation, for example, we can trace the process of the [[genesis|genesis]] of the life-world in the experience of a newborn baby.
 - Layers and sub-layers of concrete world consist of different kinds of [[particular world|particular worlds]] ([[@husserl1954|Hua VI]], 459/379, 460/381; see also [[@lee2019|Lee 2019]], 54).
 	- For example, the 0 that has as its component only the perceptual world has the visual world, the auditory world, the haptic world, etc., as its particular worlds. And cultural world has economic world, [[historical world|historical world]], [[political world|political world]], aesthetic world, ethical world, religious world, etc., as its particular worlds.
 - There is a distinction between [[universal horizon|the one world]] & [[particular world|particular worlds]].
@@ -35,11 +35,11 @@
 	4. empirical and eidetic
 - 0 in [[@steinbock1995|Steinbock 1995]]
 	- According to [[Steinbock|Steinbock]], there are provisional and transcendental concepts of the world.
-	- Provisional and transcendental concepts of the life-world. According to Steinbock, the tension between scientific world and the life-world creates for [[Husserl|Husserl]] a series of provisional concepts of the life-world ([[@steinbock1995|Steinbock 1995]], 87): 1) the life-world as what is in principle intuitable; 2) the life-world as a foundation of sense; 3) the life-world as the realm of subjective-relative truths; 4) the life-world as an [[essence (Husserl)|essential structure]], as the perceptual world. Steinbock calls these concepts provisional because they belong 1) either to ontological (and not [[transcendental phenomenology|transcendental]]) perspective on the life-world; 2) or within [[static phenomenology|static]] (and not [[genetic phenomenology|genetic]]) [[phenomenology|phenomenology]] ([[@steinbock1995|Steinbock 1995]], 87). Provisional concepts are distinguished from [[transcendental concept of the world|transcendental concept of the world]] ([[@steinbock1995|Steinbock 1995]], 87-88).
+	- Provisional and transcendental concepts of the life-world. According to Steinbock, the tension between scientific world and the life-world creates for [[Husserl|Husserl]] a series of provisional concepts of the life-world ([[@steinbock1995|Steinbock 1995]], 87): 1) the life-world as what is in principle intuitable; 2) the life-world as a foundation of sense; 3) the life-world as the realm of subjective-relative truths; 4) the life-world as an [[essence|essential structure]], as the perceptual world. Steinbock calls these concepts provisional because they belong 1) either to ontological (and not [[transcendental phenomenology|transcendental]]) perspective on the life-world; 2) or within [[static phenomenology|static]] (and not [[genetic phenomenology|genetic]]) [[phenomenology|phenomenology]] ([[@steinbock1995|Steinbock 1995]], 87). Provisional concepts are distinguished from [[transcendental concept of the world|transcendental concept of the world]] ([[@steinbock1995|Steinbock 1995]], 87-88).
 	- Transcendental concepts of the life-world: ‘[[world-horizon|life-world as horizon]]’ and ‘[[world as ground|life-world as ground]]’ ([[@steinbock1995|Steinbock 1995]], 87-88).
 - 0 in [[@mohanty1974|Mohanty 1974]]
 	- World in narrow sense is the world taken in pre-scientific, pre-logical, [[pre-predicativity|pre-predicative]] experience.
-	- World in a broad sense is the world as a condition of possibility of any world in general, i.e. [[world-horizon|world-horizon]] within which all other worlds are [[constitution (Husserl)|constituted]] and given.
+	- World in a broad sense is the world as a condition of possibility of any world in general, i.e. [[world-horizon|world-horizon]] within which all other worlds are [[constitution|constituted]] and given.
 - 0 in [[@geniusas2012|Geniusas 2012]] (see also [[Attachments/draw_2206131703.excalidraw|this map on Geniusas]])
 	1. [[world as totality|world as totality]] / natural concept of the world
 	2. [[world-horizon|world-horizon]] / transcendental concept of the world
@@ -89,7 +89,7 @@
 	- [[world-consciousness|world-consciousness]]
 	- [[world-experience|world-experience]]
 - Topics
-	- [[annihilation of the world (Husserl)|annihilation of the world]]
+	- [[annihilation of the world|annihilation of the world]]
 	- [[the world & a world|the world & a world]]
 	- [[worldbound|worldbound]]
 	- [[worldliness|worldliness]]
