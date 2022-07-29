@@ -6,11 +6,11 @@
 - 0
 	- 0 is one of main [[phenomenological perspectives|phenomenological perspectives]]. The idea of 0 appeared in [[Husserl|Husserl’s]] texts first in the beginning of 1920.
 	- 0 is to explain the “lawful regularities that regulate the formation of [[apperception|apperceptions]] ([[@husserl1966a|Hua XI]], 336/624), which amounts to nothing less than a “history of [[consciousness|consciousness]]” ([[@husserl1966a|Hua XI]], 339/627). Genetic theory represent the universal theory of genesis, which investigates structures of [[transcendental subjectivity|transcendental subjectivity]] in relation to their origins (and the process of origination itself) ([[@miettinen2020|@miettinen2020]]). Genetic analysis describes how certain [[intentionality (Husserl)|intentional]] relations and forms of experience are founded on each other.
-	- 0 “lets us move from asking about the general [[constitution (Husserl)|constitutive]] conditions for experiencing reality to asking about the constitutive conditions of those very conditions, i.e. about how they can possibly come into being ([[@bower2020|@bower2020]], 193-194).
-	- 0 gives us a more concrete understanding of [[ego (Husserl)|subjectivity]], that follows an initial and more abstract [[static phenomenology|static]] understanding ([[@bower2020|@bower2020]], 194).
+	- 0 “lets us move from asking about the general [[constitution|constitutive]] conditions for experiencing reality to asking about the constitutive conditions of those very conditions, i.e. about how they can possibly come into being ([[@bower2020|@bower2020]], 193-194).
+	- 0 gives us a more concrete understanding of [[subjectivity (Husserl)|subjectivity]], that follows an initial and more abstract [[static phenomenology|static]] understanding ([[@bower2020|@bower2020]], 194).
 - что даёт генетический метод в [[@husserl1966a|Hua XI]]?
 	- Генетический метод Анализов позволяет нам прояснить динамические образования смысла в пассивной сфере как основополагающие для логики.
-	- Критика логического мышления не может быть ограничена только сферой логики! Она должна использовать [[transcendental aesthetic (Husserl)|трансцендентальную эстетику]].
+	- Критика логического мышления не может быть ограничена только сферой логики! Она должна использовать [[transcendental aesthetic|трансцендентальную эстетику]].
 
 
 - It is not clear how different methods of 0 are related to each other. 
@@ -38,7 +38,7 @@
 	- [[genetic phenomenology & dismantling|0 & dismantling]]
 	- [[static phenomenology & genetic phenomenology|0 & static phenomenology]]
 - Topics
-	- [[genesis (Husserl)|genesis (Husserl)]]
+	- [[genesis|genesis]]
 	- [[genetic reduction|genetic reduction]]
 	- [[zig-zag|zig-zag]]
 
@@ -46,7 +46,7 @@
 ## See also
 - [[abnormality|abnomality]]
 - [[life-world (Husserl)|life-world (Husserl)]]
-- [[passivity (Husserl)|passivity (Husserl)]]
+- [[passivity|passivity (Husserl)]]
 - [[archeology of science|archeology of science]]
 
 
