@@ -28,7 +28,7 @@
 - [[ontology of the life-world|ontology of the life-world]]
 - [[reconstruction & archeology|reconstruction & archeology]]
 - [[reconstruction|reconstruction]]
-- [[transcendental aesthetic (Husserl)|transcendental aesthetic (Husserl)]]
+- [[transcendental aesthetic|transcendental aesthetic (Husserl)]]
 - [[transcendental archeology|transcendental archeology]]
 
 
