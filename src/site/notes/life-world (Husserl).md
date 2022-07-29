@@ -7,7 +7,7 @@
 	- See [[relation between world-concepts (Husserl)|relation between world-concepts (Husserl)]].
 - 0 is a sense-tone of [[Husserl|Husserl’s]] concept of the [[world (Husserl)|world]], which puts it into the context of correlation with [[modern science|modern science]].
 - 0 is introduced against the [[objectivism|objectivism]] of [[modern science|modern science]] ([[@held2012|Held 2012]], 458).
-	- 0, understood as horizonal, rather than objective [[world (Husserl)|world]], emphasizes the bound between every [[appearance (Husserl)|appearance]] and its [[horizon|horizon]]. 
+	- 0, understood as horizonal, rather than objective [[world (Husserl)|world]], emphasizes the bound between every [[appearance|appearance]] and its [[horizon|horizon]]. 
 
 
 ## Thesaurus
