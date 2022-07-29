@@ -28,7 +28,7 @@
 - Parents
 	- [[Husserl|Husserl]]
 	- [[phenomenology|phenomenology]]
-	- [[essence (Husserl)|essence (Husserl)]]
+	- [[essence|essence (Husserl)]]
 - Synonyms
 	- eidos – Eidos – эйдос
 	- pure essence –   – чистая сущность ([[@husserl1968|Hua IX]], 79; [[@husserl1948|Erfahrung und Urteil]], 385,409; [[@welton2000|Welton 2000]], 412-413).
