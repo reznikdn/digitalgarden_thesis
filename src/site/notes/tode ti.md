@@ -11,7 +11,7 @@
 ## See also
 - [[individuum|individuum]]
 - [[empirical essence|empirical essence]]
-- [[essence (Husserl)|essence (Husserl)]]
+- [[essence|essence (Husserl)]]
 - [[tode ti & existence|existence & tode ti]]
 
 
