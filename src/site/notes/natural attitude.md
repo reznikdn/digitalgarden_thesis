@@ -7,7 +7,7 @@
 	- 0 is an [[attitude|attitude]] in which we are familiar with but never remark on the existence of the world as [[universal horizon|universal horizon]] ([[@held2012|Held 2012]], 448). “We live in an uninterrupted familiarity with the existence of the unthematically familiar world” ([[@held2012|Held 2012]], 448).
 - 0 is natural because “it exists or arises ‘from nature’ or ‘from itself’ “ ([[@held2012|Held 2012]], 448).
 	- In contrast to other [[attitude|attitudes]], we need not actively take it over as our own ([[@held2012|Held 2012]], 448).
-- 0 is so [[self-evidece|self-evident]] for us that we do not once even remark that we find ourselves within it ([[@held2012|Held 2012]], 448).
+- 0 is so [[self-evidence|self-evident]] for us that we do not once even remark that we find ourselves within it ([[@held2012|Held 2012]], 448).
 - “With unquestionable self-evidence, we rely upon the supposition that the all-encompassing ‘and-so-on’ of the various references will never break down” ([[@held2012|Held 2012]], 448).
 	- “There is for us the possibility of overstepping each individual horizon that determines our thought and activity to another horizon” ([[@held2012|Held 2012]], 448).
 - “We have some inkling always already even in the natural attitude that there are horizons beyond our own [[particular world|particular worlds]] ([[@held2012|Held 2012]], 449).
@@ -33,12 +33,17 @@
 
 
 
+## Thesaurus
+- &
+	- [[natural attitude & personalistic attitude|0 & personalistic attitude]]
+	- [[natural attitude & theoretical attitude|0 & theoretical attitude]]
+	- [[transcendental attitude & natural attitude|0 & transcendental attitude]]
+
+
 ## See also
 - [[naturalness & naivety|naturalness & naivety]]
-- [[phenomenology|phenomenology]]
-- [[psychological reduction|psychological reduction]]
-- [[self-evidece|self-evidece]]
-- [[transcendental attitude & natural attitude|transcendental attitude & natural attitude]]
+- [[self-evidence|self-evidence]]
+
 
 ## Literature
 - [[@husserl1950a|Husserl E. (Hua III/1). 1950. Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie I: Allgemeine Einführung in die reine Phänomenologie. Den Haag: Martinus Nijhoff.]]
