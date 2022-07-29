@@ -5,19 +5,19 @@
 # region
 - 0
 	- 0 is the aggregate of objects of each pssible experiential science considered in unitary connectedness, namely, that with respect to which these objects respectively constitute the domain of a science ([[@landgrebe1981|@landgrebe1981]], 151).
-	- Регион не может быть получен за счёт индуктивного обобщения (это сведёт его к эмпирической универсалии) ([[@welton2000|@welton2000]]). Регион есть наивысшее синтетическое единство [[essence (Husserl)|конкретного]]. Регионы бытия - это [[eidos (Husserl)|чистая сущность]].
+	- Регион не может быть получен за счёт индуктивного обобщения (это сведёт его к эмпирической универсалии) ([[@welton2000|@welton2000]]). Регион есть наивысшее синтетическое единство [[essence|конкретного]]. Регионы бытия - это [[eidos (Husserl)|чистая сущность]].
 	- Мы можем говорить о регионе как о региональной категории, поскольку она предписывает априорно необходимое условие или правило любого предмета, который является членом этого региона. [[Husserl|Гуссерль]], отсылая к [[Kant|Канту]], называет эти правила априорными синтетическими истинами.
 	- Гуссерль не рассматривает сущности различных [[regional ontology|региональных онтологий]] как иерархически связанные, он не наделяет их линейным, однонаправленным упорядочиванием (see below “[[region#Relations between regions|Relations between regions]]“).
 - regional objects
-	- All [[object (Husserl)|objects]] of specific region have something that is [[essence (Husserl)|essential]] to them and that by means of which they first become such objects ([[@landgrebe1981|@landgrebe1981]], 151).
+	- All [[object (Husserl)|objects]] of specific region have something that is [[essence|essential]] to them and that by means of which they first become such objects ([[@landgrebe1981|@landgrebe1981]], 151).
 	- Within the region there are [[a priori|a priori]] presuppositions under which a manifold of expereintial existents can be grasped in a manner sufficiently homogeneous as to allow them to become the subject matter of a science ([[@landgrebe1981|@landgrebe1981]], 151).
 - kinds of regions
 	1. [[region of nature|region of nature]]
 	2. [[region of animal nature|region of animal nature]] 
 	3. [[region of spirit|region of spirit]]
 	- Этим трём регионам соответствуют три основных типа науки: 1) наука о материальной природе (математическая естественная наука), 2) биология и естественная научная психология (психофизиология), 3) гуманитарные науки, понимаемые в широком смысле ([[@landgrebe1981|@landgrebe1981]], 156). 
-	- Каждый этот регион обладает собственным фундаментальным региональным понятием, поддерживающим ведущую нить его [[constitution (Husserl)|конституирования]] ([[@landgrebe1981|@landgrebe1981]], 156). В случае неживой природы – это “протяжённая вещь”, которая количественно и каузально может быть определена. В случае животной природы – это понятие одушевлённой плоти. В случае человеческого мира – это понятие личного Я и его личных достижений, на основе которых вещи опыта появляются как вещи, заряженные ценностными предикатами.
-	- В то время как [[causality (Husserl)|каузальность]] – это закон природы, закон культурного региона – это закон мотивационный, как интенциональная отсылка личностного Я к своему [[surrounding world|окружению]] ([[@landgrebe1981|@landgrebe1981]], 157).
+	- Каждый этот регион обладает собственным фундаментальным региональным понятием, поддерживающим ведущую нить его [[constitution|конституирования]] ([[@landgrebe1981|@landgrebe1981]], 156). В случае неживой природы – это “протяжённая вещь”, которая количественно и каузально может быть определена. В случае животной природы – это понятие одушевлённой плоти. В случае человеческого мира – это понятие личного Я и его личных достижений, на основе которых вещи опыта появляются как вещи, заряженные ценностными предикатами.
+	- В то время как [[causality|каузальность]] – это закон природы, закон культурного региона – это закон мотивационный, как интенциональная отсылка личностного Я к своему [[surrounding world|окружению]] ([[@landgrebe1981|@landgrebe1981]], 157).
 - theme of regions in latter Husserl
 	- It is an opinion that in his latter investigations [[Husserl|Husserl]] no longer talks of regions of being ([[@landgrebe1981|@landgrebe1981]], 174).
 	- The reason for this is that these latter investigations are concerned with a dimension of immediate experience which is prior to such a scientific interpretation of what is experienced ([[@landgrebe1981|@landgrebe1981]], 174).
