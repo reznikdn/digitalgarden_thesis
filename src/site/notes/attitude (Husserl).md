@@ -13,18 +13,19 @@
 
 ## Thesaurus
 - Kinds
+	- [[natural attitude|natural attitude]]
 	- [[personalistic attitude|personalistic attitude]]
 	- [[naturalistic attitude|naturalistic attitude]]
 	- [[special attitude|special attitude]]
-	- [[домашняя установка|домашняя установка]]
-	- [[theoretical attitude|научная установка]]
+	- [[home attitude|home attitude]]
+	- [[theoretical attitude|theoretical attitude]]
 	- [[transcendental attitude|transcendental attitude]]
-
+	
 
 ## See also
 - [[attitude & world-horizon|attitude & world-horizon]]
 - [[psychological reduction|psychological reduction]]
-
+- [[natural attitude & theoretical attitude|natural attitude & theoretical attitude]]
 
 ## Literature
 - [[@luft2021|Luft S. 2021. Husserl's phenomenological discovery of the natural attitude // Subjectivity and Lifeworld in Transcendental Phenomenology. Northwestern University Press.]]
