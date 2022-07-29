@@ -6,7 +6,7 @@
 - 0
 	- 0 = universals, empirical universals ([[@husserl1968|Hua IX]], 79; [[@husserl1948|Erfahrung und Urteil]], 385,409; [[@welton2000|@welton2000]], 412-413)
 - 0 as broad notion of essence
-	- Empirical essence is “Essenz”, “Was sein”, “So-sein”. To empirical essence belongs the [[tode ti|tode ti]] ([[@majolino2015|@majolino2015]], 38). Essenz includes both the particularity and singulatiry of any [[object (Husserl)|object (Husserl)]]. 1 is the stock or set of [[predicate|predicables]] but “individualized” _hic et nunc_ by a tode ti ([[@desantis2021|@desantis2021]], 215). [[Hering|Hering]] would call broad notion of [[essence (Husserl)|essence]] an empirical essence ([[@desantis2021|@desantis2021]], 215) (see also [[entity (Husserl)|entity in Husserl’s phenomenology]].
+	- Empirical essence is “Essenz”, “Was sein”, “So-sein”. To empirical essence belongs the [[tode ti|tode ti]] ([[@majolino2015|@majolino2015]], 38). Essenz includes both the particularity and singulatiry of any [[object (Husserl)|object (Husserl)]]. 1 is the stock or set of [[predicate|predicables]] but “individualized” _hic et nunc_ by a tode ti ([[@desantis2021|@desantis2021]], 215). [[Hering|Hering]] would call broad notion of [[essence|essence]] an empirical essence ([[@desantis2021|@desantis2021]], 215) (see also [[entity|entity in Husserl’s phenomenology]].
 - 0 и индукция
 	- 0 - не совокупность предметов, [[eidetic reduction|eidetic reduction]], которое их созерцает, никак не связана с индукцией. Индукция, в отличие от универсалии, схватывает только "некоторые" эмпирические примеры, а не "все". "Всё, никогда не почёрпнутое из индукции - это то, что отличает мир сущностей от мира фактов" ([[@welton2000|@welton2000]], 41).
 - случайность 0
