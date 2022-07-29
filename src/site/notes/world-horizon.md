@@ -6,6 +6,7 @@
 - 0 is a [[transcendental concept of the world|transcendental concept of the world]] in [[Husserl|Husserl’s]] [[phenomenology|phenomenology]].
 - 0 is the opposite to understanding of the [[world as totality|world as totality]].
 - 0 is the name for a complex form of [[intentionality (Husserl)|intentionality]] that does not so much give us an awareness of everything all at once as it does provide us a schematic awareness of that which lies beyond what we experience at any given moment ([[@bower2013|Bower 2013]], 11).
+- 0 is the foundation for the [[constitution|constitution]] of [[object|individual objects]] ([[@lee2020|Lee 2020]], 89).
 - The world is not a horizon of things, but a horizon of possible experience, “an infinite horizon of possible experience” ([[@husserl1959|Hua VIII]], 148; [[@overgaard2004|Overgaard 2004]], 116).
 - 0 is “the most comprehensive and indefinite [[outer horizon|outer horizon]] that encompasses every possible thing perception” ([[@kwan1990|Kwan 1990]], 369).
 - 0 is [[theme (Husserl)|non-thematic]], [[object (Husserl)|non-objective]], [[intuition (Husserl)|non-intuitive]] [[intentionality (Husserl)|intentional]] structure of experience ([[@geniusas2012|Geniusas 2012]], 180-181; [[@fink1990|Fink 1990]], 149).
@@ -27,21 +28,21 @@
 ## Static concept of the world-horizon
 - 0 = core concept of the world-horizon, thin concept of the world-horizon ([[@bower2013|Bower 2013]], 16-17).
 - 0 is concerned with an [[eidos (Husserl)|eidos]] of the world-horizon ([[@bower2013|Bower 2013]], 16-17).
-- The [[static phenomenology|statically]] derived concept of the world captures, [[Bower|Bower]] claims, something similar to what was of interest to [[Kant|Kant]] in his [[transcendental aesthetic (Kant)|transcendental aesthetic]], namely, the spatiotemporal form of perceptual experience ([[@bower2013|Bower 2013]], 16).
+- The [[static phenomenology|statically]] derived concept of the world captures, [[Bower|Bower]] claims, something similar to what was of interest to [[Kant|Kant]] in his [[transcendental aesthetic|transcendental aesthetic]], namely, the spatiotemporal form of perceptual experience ([[@bower2013|Bower 2013]], 16).
 - [[eidetic reduction|Eidetic variation]] of world-horizon is not equal to eidetic variation of an [[object (Husserl)|intentional object]] because the last can be given as identifiable, as something completely identical in its own right, whereas the world-horizon is [[pregivenness|pregiven]] ([[@bower2013|@bower2013]], 22). World-horizon does not have an immediate core of experience as the thing does; it has only an indirect tie to this core ([[@bower2013|@bower2013]], 23).
 - 0 implies that world-horizon gives my present experience the sense of direct contact with only a “segment” of the world ([[@husserl2012b|Hua XLI]], 362; cit. by [[@bower2013|@bower2013]], 24)
 
 ## Construction of the world-horizon
 - 0 is an [[eidos (Husserl)|eidetic]] exploration of the [[world-horizon|world-horizon]], where the researcher clarifies the idea of the the factual [[world (Husserl)|world]] as a world of experience, with the result that what is thus constructed is now his fundamental example for [[eidetic reduction|eidetic variation]] in which this fact is raised into mere pure possibility ([[@husserl2012b|Hua XLI]], No. 29; [[@bower2013|@bower2013]], 24).
-- 0 is a [[reflection|reflection]] on what, over and above [[thing (Husserl)|things]] remains identical when one considers various actual experiences.
+- 0 is a [[reflection|reflection]] on what, over and above [[thing|things]] remains identical when one considers various actual experiences.
 
 
 ## Totality of the world-horizon
-- 0 is not a reference to a particular [[thing (Husserl)|thing]] or collection of things, but to integrated unity in contradistinction to a simply sum oh the objects ([[@husserl2008|Hua XXXIX]], 210; cit. by [[@bower2013|@bower2013]], 37). 
+- 0 is not a reference to a particular [[thing|thing]] or collection of things, but to integrated unity in contradistinction to a simply sum oh the objects ([[@husserl2008|Hua XXXIX]], 210; cit. by [[@bower2013|@bower2013]], 37). 
 
 
 ## World-horizon as totality of entities
-- If we understand by world-horizon the totality of entities, this would seem to suggest that the entities are what make the world possible, or at most that world, and individual entities are interdependent ([[@husserl1954|Hua VI]], 146; [[@husserl1968|Hua IX]],  96; see also [[@overgaard2004|@overgaard2004]], 115). But the investigation of perceptual [[intentionality (Husserl)|intentionality]] shows the [[horizon (Husserl)|horizon]] is the condition of possibility of [[entity (Husserl)|entities]], and not vice versa. 
+- If we understand by world-horizon the totality of entities, this would seem to suggest that the entities are what make the world possible, or at most that world, and individual entities are interdependent ([[@husserl1954|Hua VI]], 146; [[@husserl1968|Hua IX]],  96; see also [[@overgaard2004|@overgaard2004]], 115). But the investigation of perceptual [[intentionality (Husserl)|intentionality]] shows the [[horizon (Husserl)|horizon]] is the condition of possibility of [[entity|entities]], and not vice versa. 
 
 
 ## Thesaurus
@@ -57,7 +58,7 @@
 
 ## See also
 - [[universal horizon|universal horizon]]
-- [[annihilation of the world (Husserl)|annihilation of the world]]
+- [[annihilation of the world|annihilation of the world]]
 - [[paradox of act and horizon|paradox of act and horizon]]
 - [[relation between world-concepts (Husserl)|relation between world-concepts (Husserl)]]
 
