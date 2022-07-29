@@ -18,7 +18,7 @@
 - 0 does not reach the “self-enclosed field” of its subject matter, has not yet arrived at a “pure soul” ([[@husserl1970|Husserl 1970]], 239).
 - 0 must be universally carried out ([[@husserl1970|Husserl 1970]], 240).
 	- It must not be meant as a critical [[epoché|epoché]] or as a generally philosophical undertaking, as a universal critique of [[experience|experience]], of the possibility of knowledge of truths-in-themselves for an objectively existing [[world|world]], etc. ([[@husserl1970|Husserl 1970]], 240).
-
+- In a purely psychological interest I bracket the existence of an [[object|object]] as belonging in the mind-independent nexus of physical nature and concentrate purely on the subjective content of my experience ([[@staiti2014|Staiti 2014]], 186).
 
 
 
@@ -40,7 +40,7 @@
 	- [[Cartesian reduction|Cartesian reduction]]
 	- [[ontological reduction|ontological reduction]]
 - &
-	- [[transcendental phenomenology & phenomenological psychology|0 & transcendental reduction]]
+	- [[transcendental reduction & psychological reduction|0 & transcendental reduction]]
 
 ## See also
 - [[psychological attitude|psychological attitude]]
