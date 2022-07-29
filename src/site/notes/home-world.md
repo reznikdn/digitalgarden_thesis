@@ -10,12 +10,15 @@
 - 0 – феномен [[generativity|генеративности]] ([[@luft1998|Luft 1998]], 159). 
 	- не [[world (Husserl)|мир]] единичного субъекта, но [[intersubjectivity (Husserl)|интерсубъективный]] мир, мир [[tradition|традиции]], культуры, религии (/мифов), коллективных ценностей.
 - 0 – мир определённой семьи, общества, народа, нации… с их собственной исторической традицией ([[@luft1998|Luft 1998]], 159).
-- 0 [[correlation (Husserl)|скоррелирован]] с “домашней установкой” и её подмножеством установок ([[Luft|Luft]] 1998, 159).
+- 0 [[correlation|скоррелирован]] с “домашней установкой” и её подмножеством установок ([[Luft|Luft]] 1998, 159).
 
 
+## See also
+- [[home-world & alien-world|home-world & alien-world]]
+- [[alien-world|alien-world]]
 
 
-## Литература
+## Literature
 - [[@moran2012|Moran Dermot. 2012. Husserl's crisis of the European sciences and transcendental phenomenology. An introduction.]]
 - [[@luft2021|Luft Sebastian. 1998. Husserl's phenomenological discovery of the natural attitude // Continental Philosophy Review 31(2).]]
 - Held Klaus. 1991. Heimwelt, Fremdwelt, die eine Welt // Phänomenologische Forschungen 24/25.
